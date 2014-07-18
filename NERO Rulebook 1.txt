@@ -42,7 +42,7 @@ Your character also has a specific class which determines the number of BP that 
 Sometimes you will get into battles. When swinging a weapon, you will call out the amount of damage your weapon will do.
 A standard long sword does 2 points of damage. When you get hit, you will subtract from your Armor Points and your Body Points until you are at zero or below. Your opponent will do the same. 
 Spells may be cast during battles and they can affect the battle in many ways. You need to know the spells in order to get the most out of your NERO experience. Spells are represented by foam golf or tennis balls purchasable at most sporting good stores, or small cloth packets filled with birdseed that you can make yourself. You must say the specific words (incantation) associated with the spell (such as “With mystic force I web you!") and hit your target with the spell aura for the spell to work.
- You may have tags or a character skill sheet which you use to keep track of your current Body Points, Armor Points, skills and spells. After each battle, you and your opponents must adjust the tags to keep track of your new status. 
+You may have tags or a character skill sheet which you use to keep track of your current Body Points, Armor Points, skills and spells. After each battle, you and your opponents must adjust the tags to keep track of your new status. 
 Now let's look at a typical NERO weekend and see how some of these rules are applied.
 Your First Weekend
 Here's an example of a typical NERO weekend as experienced by a new player (You!): 
@@ -113,11 +113,49 @@ Notice how this history establishes a few character traits with which the player
 This history also explains how he got the skills with which he will be entering the game: One Handed Edged, Healing Arts, First Aid, Read and Write, and a spell.
 If your character is older, you may have to think of a reason why your character is only second level. For example, perhaps you have been a farmer or a trapper for many years and now you have been kicked out of the family / evicted from your farm / mistreated by an evil bad guy / stirred into action by some injustice and now after all those years have decided to become an adventurer.
 So go to it! Write an interesting character history and see how much more fun NERO will become.
+
 Character Profile
-Character Profile
-Use these questions as a way to help “flesh out" your character history: Where and when were you born? Are you aware of your parent's names? If so, what are they? What were their occupations? Do you know if they are alive or dead? If they are dead, how did they die?
-Family: Do you have any siblings? Are you aware of them, and if so, how did you get along as children? Do you know where they are now, and if so, how do you get along now? Where are your siblings and what are they like?
-Your Past: What was your childhood like? What were your parents' childhoods like? Where, how, and from whom did you learn your trade?
-Ambitions: What do you want out of life? What are your personal goals and ambitions? Is there anything about your life that you would change? What tempts you? Do you have any phobias? Do you have any superstitions?
-Profession: Are you an adventurer, and if so, why? What would cause you to give up adventuring? Do you have any close friends? Do you have any enemies? 
-Opinions: What is your attitude about fighting and killing? How about mercenaries? What is your attitude about magic? How about mages? What do you think about necromancy? Do you think it is wrong to cast necromantic spells? What is your attitude towards theft and thieves in general? How about someone in your group who steals? How about someone who steals from your group, especially if they are a member? What is your opinion about Good and Evil? What is your attitude towards the law? How do you feel about nobility? What are your future plans?
+Use these questions as a way to help “flesh out" your character history: 
+	Where and when were you born? 
+	Are you aware of your parent's names? If so, what are they? 
+	What were their occupations? 
+	Do you know if they are alive or dead? 
+	If they are dead, how did they die?
+	
+Family: 
+	Do you have any siblings? 
+	Are you aware of them, and if so, how did you get along as children? 
+	Do you know where they are now, and if so, how do you get along now? 
+	Where are your siblings and what are they like?
+
+Your Past: 
+	What was your childhood like? 
+	What were your parents' childhoods like? 
+	Where, how, and from whom did you learn your trade?
+
+Ambitions: 
+	What do you want out of life? 
+	What are your personal goals and ambitions? 
+	Is there anything about your life that you would change? 
+	What tempts you? 
+	Do you have any phobias? 
+	Do you have any superstitions?
+
+Profession: 
+	Are you an adventurer, and if so, why? 
+	What would cause you to give up adventuring? 
+	Do you have any close friends? 
+	Do you have any enemies? 
+
+Opinions: 
+	What is your attitude about fighting and killing? 
+	How about mercenaries? 
+	What is your attitude about magic? 
+	How about mages? What do you think about necromancy? 
+	Do you think it is wrong to cast necromantic spells? 
+	What is your attitude towards theft and thieves in general? 
+	How about someone in your group who steals? 
+	How about someone who steals from your group, especially if they are a member? 
+	What is your opinion about Good and Evil? What is your attitude towards the law? 
+	How do you feel about nobility? 
+	What are your future plans?

@@ -1,0 +1,165 @@
+Chapter 1 : Getting Started	3
+Introduction	3
+Where fantasy becomes a reality…	4
+How NERO Works	4
+The 4 Most Important Rules	5
+An Introduction to the Rules	5
+Your First Weekend	6
+Multiple Characters	9
+Playtesting Rules	9
+Be a Successful NERO Player	9
+Character Profile	11
+Chapter 2 : The Basics	13
+Classes	13
+Races	13
+Barbarian	14
+Biata	15
+Drae	16
+Dwarf	16
+Gypsy	16
+Half Ogre	17
+Half Orc	17
+Hobling	18
+Mystic Wood Elf	18
+Sarr	18
+Scavenger	19
+Cultures	19
+Monsters and NPCs	20
+Monster Size	21
+Matters of Life and Death	21
+Out-of-Game	21
+Hit Points	21
+Life and Death	22
+Character Advancement	25
+Chapter 3 The Skill System	27
+The Skill System	27
+Chapter 4 Magic	28
+Spell Aura	28
+Casting Spells	28
+Touch-Casting	29
+Meditation	29
+Schools of Magic	29
+Stacked Effects	29
+Spell defenses	30
+Spell Disruption	31
+Necromancy	31
+Elemental Planes	31
+Illegal Skills and Powers	31
+Chapter 5 : Spells	33
+Spell Defenses	33
+Spell Durations	33
+Circle of Power	37
+Confine	38
+Control Undead	38
+Corruption	38
+Destroy	41
+Destroy Undead	42
+Detect Magic	42
+Dispel Magic	42
+Magic Missle	50
+Magic Storm	50
+Mystic Lock	50
+Paralyze	50
+Pin	51
+Poison Shield	51
+Purify Blood	51
+Refit Armor	51
+Reflect Magic	51
+Regeneration	52
+Release	52
+Remove Curse	52
+Remove Drain	53
+Remove Fear	53
+Remove Physical Affliction	53
+Remove Weakness	53
+Repel	53
+Restore Limbs	54
+Sanctuary	54
+Shatter	54
+Shield	54
+Shield Magic	55
+Shun	55
+Shun Animal	55
+Silence	56
+Silver Aura	56
+Sleep	56
+Stabilize	56
+Stone Bolt	57
+Taint Blood	57
+Tarry	57
+Trap Undead	57
+Turn Undead	58
+Unparalyze	58
+Ward	58
+Weakness	58
+Web	59
+Wither Limb	59
+Common Formal Magic Spells	60
+Chapter 6: Game Play	64
+Combat	64
+The Hold Rule	64
+Counted Actions	64
+Body Contact	65
+Pinning and Trapping Weapons	65
+Charging	66
+Legal Targets	66
+Unskilled Weapon Use	66
+Swinging your weapon	66
+Shields	67
+Shield Bashing	67
+Delivery Methods	68
+Calling Weapon Damage	69
+Special Abilities	69
+So You Want to Be a Thief?	75
+Trap Types	77
+Trap Mechanics	79
+Marshals	80
+Cheating and Metagaming	81
+Build Cheating	81
+NERO Sportsmanship Policy	81
+Code of Conduct	82
+Safety	83
+Chapter 7 Adventuring Gear	85
+Physical Rerepresentation	85
+Game Items	85
+Armor	85
+Physical Armor	86
+Weapons	86
+Weapon Safety Checks	87
+Weapon Tags	88
+Make Your own	88
+Weapon Specific Specs	89
+Weapon Safety Guidelines	90
+Construction Materials	91
+How to Make a Weapon	93
+Shields	95
+Potions	95
+Scrolls	96
+Alchemy	96
+Types of Alchemical Substances	96
+Chapter 8: Atmosphere	98
+Role-Playing	98
+Darkvision & Low-Light vision	98
+. Anachronisms	100
+The Society of NERO	103
+Titles and Rankings	104
+Noble Powers	106
+NERO Formal Magic	110
+Definition of Basic Terms	110
+Special Types of Formal Magic	112
+Casting Rules	114
+During the Casting of the Formal Magic	117
+After Casting the Formal Magic	118
+Formal Magic Cantrips	120
+Nero 9th Edition Rulebook Errata	123
+NERO 9’th Edition Changelog	126
+Spell Changes	126
+Skill Changes	127
+Race Changes	129
+Cantrip Changes	129
+Formal Changes	129
+Production Changes	130
+Character History Tools	131
+NPC Speech	132
+Opening Ceremonies	133
+EMT Guidelines	135

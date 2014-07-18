@@ -1,0 +1,619 @@
+A
+accept 47
+Acid Traps 96
+Activate 51
+Activating Magic Items 51
+Additional Effects and Attacks 90
+Alarm 97
+Alchemical Solvent 116
+Alchemical Substances 115
+Alchemy 33, 115
+Alcohol 101
+Alcohol Rule 5
+Alternate Lock Picking 40
+Amani elf 17
+Antidote 117
+Arcane 87, 90
+Archery 14, 17, 43
+Area of Effect 87
+Armor 32, 105
+Armor points 105
+Armor Points 6, 12, 22, 80, 88, 105, 116
+Arrows/Bolts 109
+Assassinate 33, 76
+Awaken 67, 68, 91
+Axe 110
+B
+Back Attack 34
+Backfire 97
+backlash 52
+Backlash 56, 58
+Backstab 34
+Bane 49, 52
+Bane (Minor) 52
+Banish 67
+Barbarian 15
+Barbarian Slay 14, 15, 34
+Baseball Swing 86
+Base Claws/Body Weaponry 90
+Base Production 32
+Batch 52
+Berserk 48, 117
+Biata 15
+Bind 48
+Blade Effects 47
+Blade Fury 34, 35
+Blade/Shaft 108
+blanket 26
+Bless 67
+Bludgeon 110
+Blunt Weapons: 106
+Body Contact 5, 85
+Body Points 6, 8, 12, 14, 16, 18, 19, 22, 23,
+25, 26, 37, 39, 67, 68, 70, 79, 88, 91, 93, 94,102, 116
+Bow 109
+Bows 19, 20, 43, 44, 107
+Break Charm 14, 15, 34
+Bucklers 86
+Build Cheating 99
+Build Points 6, 26
+C
+cabin assignment 6
+Calling Hits 89
+Calling Weapon Damage 87
+Calm 67
+Calm Animal 68
+Camp Pad 111
+Cantrip 37, 59, 60, 73, 76, 129
+Cantrip Pages 59
+Cantrip Tome 59
+Carrying 23
+Casting Spells 46
+Cast on the Fly 46
+Cause Critical Wounds 68
+Cause Damage 117
+Cause Disease 68
+Cause Light Damage 117
+Cause Light Wounds 68
+Cause Mortal Wounds 68
+Cause Serious Damage 117
+Cause Serious Wounds 68
+Cause Wounds 68
+Celestial Abstinence 15
+Celestial magic 14, 15, 17
+Celestial Magic Spell Slot 34
+Chain Mail 106
+character histories 9
+Charging 85
+Charm , 68
+Charm Animal 69
+Charm Effects 47
+Cheating 99
+Circle 24
+Circle of Harmony 69
+Circle of Power 37, 48, 69
+Class 12
+Cloak 49, 52
+Cloak (Minor) 52
+Closed Cell Foam 111
+Code of Conduct 100
+Combat 84
+Components 50
+Concentration 62
+Confine 48, 70
+Construction Materials 111
+Contact 87
+Contact poisons 116
+Contact Poisons 32
+Containers 98
+Continuous 62
+Control Undead 70, 90
+Conversational Combat 89
+Core 111
+Corruption 70
+costume 6, 18, 36
+Costume Bonus 105
+Count 9
+Counted Actions 85
+Craftsman 14, 34
+Craftsman (other) 20
+Create Potion 35
+Create Scroll 35, 37
+Create Trap 35
+Create Traps 96
+Create Undead 70
+Creating Undead 54
+Creation 53
+Critical Attack 7, 29, 35
+Critical Slay 35, 76
+Critical Slay / Parry 35
+Crossbow 109
+Crossbows 19, 20, 43
+Crossguard 108
+Cultures 21
+Cure Critical Wounds 71
+Cure Disease 71
+Cure Light Wounds 8, 71
+Cure Mortal Wounds 71
+Cure Serious Wounds 71
+Cure Wounds 71
+Curse 71
+Curse of Transformation 23, 25, 90, 129
+D
+dagger 23
+Dagger 110
+Damage Amount 87
+Damage Aura 53
+Damage Cap 92
+Damage Type 87
+Dark Territory 52, 56, 57, 58
+Dealing Damage(Traps) 98
+Death 22, 71
+Death Stone 25
+Deformities 38
+Delayed Endow 47, 71
+Delimit 52
+Delivery Methods 87
+Desecrate 72
+Destroy 72
+Destroy Undead 72
+Detect Celestial Magi 15
+Detect Celestial Magic 14, 36
+Detect Magic 72
+Dexterity Armor 36
+Disarm / Arm Trap 36
+Disarm/Arm Trap 8, 19
+Disarming Traps 98
+Disease 48
+Dispel Magic 68, 70, 72, 74, 75
+Dispel Magic. 76
+Displacement 73
+Dodge 34, 39
+Double from <damage type or effect> 92
+Drae 16
+Dragon’s Breath 73
+Drain 91
+Dwarf 16
+Dying 23
+E
+Earth Magic 20
+Earth Magic Spell Slot 36
+Effect: 88
+Effect Shield XX
+Effects Types 87
+Eldritch Blast 73
+Eldritch Power 48
+Elemental 87, 90
+Elemental Blade 47, 73
+Elemental Planes 48
+Elemental Shield 73
+Elemental Shield. 47
+Elf 17
+Elixirs 32, 115
+Empathic Healing 73
+Enchant 52
+Enchanted Blade 47, 74
+Endow 47, 74
+Enflame 74
+Enhanced Armor 42
+enslavement 20
+Enslavement 23, 25, 34, 41, 64, 67, 69, 70,78, 80, 90, 92, 115, 116, 117, 130, 134
+Enslavement Antidote 117
+Evaluate Item 36
+Evendarr 20
+Expanded Enchantment 52
+expendable 47
+Experience Points 6, 26
+Explosive Traps 97
+Extended Circle of Power 53
+Extended Circles of Power 50
+Extended Earth Circle 24, 51
+Extended Hearth 74
+Extend Formal Magic 52
+F
+Fear 91
+Feeblemind 48, 117
+fighter 14
+Fighter 12
+fighters 18
+Fire / Acid Traps 96
+First Aid 10, 23, 30, 37, 38, 81, 93, 130
+First Event Deaths 25
+Fishtail 56
+Flame Bolt 75
+Flaw 56
+Florentine 37
+Focus 92
+Forget elixir 15
+Forget elixirs 17
+Forget-it-Well 23, 78, 116, 117
+Forget-It-Well 117
+Forget-me-Not 23
+Forget-Me-Not 117
+Forget poison 24
+Forget poisons 25
+Formal Magic 37, 49, 50
+Formal Magic Casting Walkthrough 57
+Formal Magic Scroll 49
+Formal magic Spell 49
+Free Undead 75
+Fumble 74
+G
+Gaffer Tape 112
+Game Items 105
+Game Money 94
+Gaseous Form 92
+Gases 116
+Gas Globes 32
+Gas Traps 97
+Gate 94
+Goblin 33, 130
+Goblin Production 33
+Golems 54
+Got it 47
+Greater Extension 52
+Grip 108
+gryphon 15
+Guardian of the Four 75
+Gypsy 18
+Gypsy Code of Honor 18
+Gypsy Curse 14, 18, 23, 25, 30, 37, 56, 75,79, 87, 102
+H
+Half Ogre 18
+Half Orc 19
+Hallucinoid 48, 118
+Hammer 110
+Harmed by <damage type or effect> 93
+Harm Undead 75
+Hatchet 110
+Head 108
+Heal by <damage type or effect> 93
+healers 17
+Healing Arts 10, 24, 37, 38
+Help Undead 75
+Herbal Lore 39
+Hit Points 22, 130
+Hobling 19
+Hobling Dodge 14, 19, 39
+Hold 48, 84
+Hold Rule 5
+How to Make a Weapon 112
+human 13
+I
+Identify 51
+Illegal Skills and Powers 48
+Illumination 75
+Immune to/from <damage type or effect> 93
+Immune to <Type> Weapons 93
+Imprison 23, 48, 75
+Improved Hearth 76
+Improving a weapon 42
+incantation 46
+Incapacitated 23
+indefinite 48
+Indefinite 62
+Indestructible 56
+Infection 23, 25, 91, 130
+Ingested 87
+Inspiration 76
+Instant 62
+Intoxicant 118
+Investiture, Lesser 76
+J
+Jewelry 94
+K
+Killing Blow 23, 24
+king 9
+L
+Latex Weapons 106
+Lay-on 84
+LCO 53
+Leather 106
+Legal Targets 86
+Lesser 91
+Lesser Divestiture 76
+Level 26
+Life 2, 7, 22, 23, 24, 25, 35, 48, 49, 54, 63, 65,67, 70, 71, 73, 76, 77, 79, 81, 91, 93, 117, 129,130, 133, 134, 135
+Lightning Bolt 77
+Lightning Storm 77
+Limited Reset 28
+Line of Sight 62
+Liquid Light 118
+Local Chapter Only 53
+Locks 96
+M
+Mace 110
+Machine Gunning 86
+Magic 46, 87, 90
+Magic Armor 77
+Magic Item 15, 51
+Magic Items 94
+Magic Item Slots 51
+Magic Missile 77
+Magic Storm 77
+Maintaining Your NERO Weapon 114
+Make Your own(Weapons) 108
+Making weapons 42
+Manifold 39, 62
+Marshal 25, 52, 55, 56, 57, 58, 95, 96, 97, 98,99, 100, 115, 116, 130
+Massive 91
+Massive Mechanical Traps 96
+Master Critical Attack 40
+Master Critical Slay 40
+Master Parry 40
+Master Proficiency 40
+Materials 32
+Medic 101
+Meditate 47
+Meditation 47
+Memorization 46
+Mentalist 15, 17
+Metagaming 99
+Mind Abilities 93
+Mind Effect Restrictions 115
+Monsters 21
+Monster Size 22
+Multiple Characters 8
+Multiple Formal magic Spells Cast upon a Single Target 56
+Mystic Lock 77
+Mystic Wood Elf 20
+N
+Natural Armor 93
+Nausea 48, 118
+necromancy 10
+Necromancy 48
+Negating Attacks 89
+NERO International 9
+nobility 10
+No effect 47, 93
+Noise Makers 97
+No Metabolism 93
+Non-Corporeal Form 93
+Non-Player Characters 7
+NPC 21
+O
+Obliteration 49
+Oil of Slipperiness 118
+One Handed Block 44
+One Handed Blunt 20, 31, 44
+One Handed Edged 10, 28, 44
+One Handed Sword 110
+One Handed Weapon Master 44
+Open Cell Foam 112
+Opening Ceremonies 28
+Out-of-Game 22, 130
+Out Of Game 22
+P
+Packet 87
+Packet Attacks 90
+Page Status 101
+Pantherghast 54
+Paralyze 48, 77, 118
+Paranoia 118
+Parry 35
+Paste of Stickiness 118
+permanent death 53
+Personality Changes 38
+Phase 93
+Physical 87, 90
+Physical Armor 106
+Physical Representations 105
+Physical Strik 91
+Picking Locks 98
+Pick Locks 8, 14, 19, 40
+Pin 48, 78
+Pinning 85
+Pipe foam Insulation 111
+Plate 106
+Plot Committee 9, 21, 22, 34
+Poison 87, 90
+Poison Shield 78, 118
+Polearm 14, 44, 110
+Polearms 16, 19
+Pommel 109
+Pool noodle 111
+Potions 32, 114
+Pre-made weapons 108
+Prepare Hearth 39, 40, 76
+Production 32
+Protection Aura 52, 53
+Purify Blood 68, 78
+pyramid 28, 29, 47
+Pyramid 53, 56
+Q
+Quentari elf 17
+Quick Start Character Gen 102
+quiver 110
+Quiver: 109
+
+R
+Race 13
+Rapid refit 42
+Read and Write 9, 10, 14, 29, 40
+Read Magic 14, 15, 16, 29, 41
+Real Weapons 101
+Reduced Damage 93
+refit 36
+Refit Armor 78
+Refitting Physical Armor 106
+Reflect Magic 78
+refused 47
+Regeneration 78, 93
+Release 79
+Remove Curse 79
+Remove Drain 79
+Remove Fear 79, 91
+Remove Gypsy Curse 37
+Remove Physical Affliction 79
+Remove Weakness 79
+Render Indestructible 52
+Renew <option> 93
+Repel 79
+Reset 28, 46
+Resist 94
+Resist Charm 14, 15, 16, 17, 20, 41, 91
+Resist Charm. 68
+Resist Poison 14, 16, 19, 20, 21, 30, 41, 90,97, 102, 115, 116, 131
+Resist Sleep 14, 15, 16, 17, 41
+Restore Limbs 79
+resurrected 8
+Resurrection 24, 51
+Return <type> 47, 94
+Reversible Spells 48
+Revive 93, 94
+Rift 94
+Rip from Pin/ Bind/Web/Confine 94
+Rogue 12
+role-playing 13, 17
+S
+Safety 84, 101
+safety tag 6
+Sanctuary 79
+Sap 110
+Sarr 20
+Scavenger 21
+Scenting 14, 20, 21
+Scholar 12
+Scholarly Skills 14
+Schools of Magic 47
+Scrolls 32, 115
+Scroll Specific 53
+search 8
+Searching a Cabin 95
+Searching a Person 95
+Securing your Cabin 95
+Setting off a Trap 97
+Setting Traps 97
+Shatter 47, 80
+Shield 41, 80
+Shield Bashing 86
+Shield Magic 47, 68
+Shields 86, 114
+Shun 80
+Shun Animal 80
+Silence 48, 80
+Silver Aura 47, 80
+Silvering a weapon 42
+Slavery 20
+Sleep 48, 80, 118
+Small Weapon 20, 31, 37, 44
+Smithing 14, 16, 42
+Smoking 101
+Sneaking Rule 6
+Solidify 94
+So You Want to Be a Thief 94
+Spear 110
+Special Ability 42
+Special Defenses and Vulnerabilities 92
+Special Property 42
+Spell 87
+Spell Aura 46
+Spell Defenses 48
+Spell Defenses 47, 62
+Spell Disruption 46
+Spell Grounding 86
+Spell Orb 46
+Spell Packet 46
+Spells 62
+Spell Slot 28, 34
+Spell Store 52, 53
+Spell Strike 91
+Spirit 24
+Spirit-Link 25
+Spirit Lock 52
+Sportsmanship 100
+Stabilize 37
+Stacked Effects 47
+Staff (weapon) 14, 44
+Standard 111
+Standard Reset 28
+Stealing an Item 94
+Stealth Skills 14
+Stone Bolt 81
+Stone elf 17
+Stop Thrust 42
+Strapping Tape 112
+Strengthening an item 42
+Strong arm 14
+Strong-arm 18, 43
+Style Master 43
+Success versus Failure 56
+Suicide Ability 94
+Summoning 53
+Superhuman Strength 92
+Swinging your weapon 86
+T
+Taint Blood 48
+Tapes 112
+Target Effect Limits 55
+Targets 56
+Target Specific 47
+Tarry 81
+Templar 12
+Thief 94
+Threshold 94
+Throwing/Tossing Items 89
+Thrown Weapon 44
+Thrown Weapons 20, 110
+Thrusting Tip 108
+Timed 62
+times per day 47
+Torches and Flames 101
+Touch 87
+Touch-Casting 46
+Trade Mastery 32
+Transform 53
+Trapping 85
+Traps 32, 96
+Trap Triggers 97
+Trap Undead 75, 81
+Turn Undead 81
+Turtling (shield)  86
+Two Handed Blunt 14,
+Two Handed Sword 14
+Two Handed Weapon Master 44
+Two handed weapons 107
+Two Weapons 43
+U
+Ultralight 111
+Unconscious 22
+Uncontrollable Action 38
+Unparalyze 81
+Unrestricted 53
+Unskilled Weapon Use 86
+V
+Vampire Charm 92
+Vengeance 50
+Vertigo 48
+Visible Effects 48
+Vorpal Coating 118
+Vulnerabilities 92
+W
+Ward 48
+Waylay 43
+Weakness 82
+Weapon Blow 87
+Weapon Combat 106
+Weapon Construction 108
+Weapon Master 43
+Weapon Parts 108
+Weapon Proficiency 29, 43
+Weapons 32, 95, 106
+Weapon Safety Checks 107
+Weapon Safety Guidelines 110
+Weapon Skills 4
+Weapon Sock 112
+Weapon Specific Specs 109
+Weapon Tags 107
+Weapon Traps 96
+Weapon Type 87
+Wear Bonuses 105
+Wear Extra Armor 44,10
+Wear Points 105
+Web 48
+Wild Elf 17
+Wither Limb 47
+Wizard 49
+Workshops 32
+X
+XP 6

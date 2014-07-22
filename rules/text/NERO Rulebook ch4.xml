@@ -1,4 +1,5 @@
-Chapter 4 Magic</p>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><body><p>Chapter 4 Magic</p>
 <p>Spell Aura</p>
 <p>There are two types of physical representations for spell aura; the manufactured spell orb and the traditional spell packets. Check with your local chapter so see which aura types you can use as some venues restrict one type or the other.</p>
 <p>The spell orb is a manufactured product made of soft foam and can be no bigger than the size of a tennis ball. Soft foam balls can be purchased at most sporting good stores and toy stores. Foam balls are made by companies such as Wilson (called the Foam Flight Practice Ball) and Nerf makes a soft foam tennis ball.</p>
@@ -2004,3 +2005,4 @@ Chapter 4 Magic</p>
 <p>Invoked:  When an invoked Cantrip is cast the caster will receive 5 charges of the effectin the appropriate school of formal magic.  Using the effect uses one charge. An effect can be used against a single opponent for a maximum of 5 minutes or line of sight.  All unused charges expire at the next tag reset.  Multiple charges may be used against multiple opponents at the same time.  The caster must state “I Invoke <Cantrip name> against you” to the opponent it is being used against so that the opponent can hear it.  This is an in-game statement and will not work if the Caster is silenced.</p>
 <p>2 Year:  Until removed by in-game methods or 2 years passes. Unless otherwise indicated, the effect of any Cantrip with the duration of Day is lost if the target requires a life spell.</p>
 <p>
+</body></Root>

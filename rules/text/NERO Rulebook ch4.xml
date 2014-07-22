@@ -16,7 +16,7 @@
 <p>Touch-casting is performed by holding a packet and placing it against the target you wish to affect. The obvious advantage to this is that there is no chance of missing and wasting the effect. In such a case, the effect recipient may choose to "accept" the effect, thus letting it past their Spell Defenses such as Shield Magic or Elemental Shield. The recipient must be conscious to "accept" an effect without triggering the Spell Defences. You may never "accept" a thrown effect. The decision to accept an effect through touch-casting is made immediately after the effect is cast. This is to prevent a caster from tricking an unsuspecting victim. </p>
 <p>The recipient of a touch-cast effect can always refuse the effect by saying "refused." This will use up the effect, but have no effect whatsoever on the recipient. Whenever attempting to touch-cast, you must abide by all NERO safe conduct rules.</p>
 <p>Meditation</p>
-<p>Any character may Meditate to regain use of "times per day" or "expendable" skills that were blocked by the Return type monster ability. To Meditate, the player must role-play deep concentration for 60 seconds, during which time they may perform no other actions including speaking, moving, or the use of any in-game skills, items or abilities. At the end of the meditation the character regains any skills or abilities lost to the effect Return <type>. Only character skills and abilities may be regained by Meditating. (not Magic Items, Scrolls, Alchemy, etc.) A spell-casting character may also Meditate to regain spells that missed a legal target. At the end of the meditation, the character regains the use of any thrown spells that failed to hit a valid target, as well as all spells, skills and abilities lost to the Return <type> effect. Spell casters should not use the Meditate ability to intentionally miss their targets in an attempt to cause confusion for the NPCs. "Decoy" spells that are intentionally thrown away from the target should not be regained by Meditate. In effect, you can only get your spells back from Meditate if you were actually attempting to hit your target and missed. Spells negated by defenses (ex. Dodge, Phase, and Resist) cannot be meditated back.</p>
+<p>Any character may Meditate to regain use of "times per day" or "expendable" skills that were blocked by the Return type monster ability. To Meditate, the player must role-play deep concentration for 60 seconds, during which time they may perform no other actions including speaking, moving, or the use of any in-game skills, items or abilities. At the end of the meditation the character regains any skills or abilities lost to the effect Return (type). Only character skills and abilities may be regained by Meditating. (not Magic Items, Scrolls, Alchemy, etc.) A spell-casting character may also Meditate to regain spells that missed a legal target. At the end of the meditation, the character regains the use of any thrown spells that failed to hit a valid target, as well as all spells, skills and abilities lost to the Return (type) effect. Spell casters should not use the Meditate ability to intentionally miss their targets in an attempt to cause confusion for the NPCs. "Decoy" spells that are intentionally thrown away from the target should not be regained by Meditate. In effect, you can only get your spells back from Meditate if you were actually attempting to hit your target and missed. Spells negated by defenses (ex. Dodge, Phase, and Resist) cannot be meditated back.</p>
 <p>Schools of Magic</p>
 <p>Whenever your character begins learning magic, either celestial or earth, you must select which of the two is your primary school of magic. The other will be the secondary, costing more build to buy. There is nothing preventing you from learning both earth and celestial magic but a separate spell pyramid must be built for each school.</p>
 <p>Stacked Effects</p>
@@ -281,7 +281,7 @@
 <p>Duration: Indefinate</p>
 <p>The recipient is protected against all non-ranged atacks from living creatures. ranged attacks (such as spells  missle weapons  and gas globes) can affect the recipient. this spell will remain in effect as long as the subject's hands are crossed on their chest and they do not recieve any body damage. I f you are unsure if an attacker is living or not  you will affected by them. YTou may not call a Hold or otherwise go out of game to asertain their status. the cahracter with a Desecrate active may use no game abilities ecept touchcasting on themselves. Attempting to pick up an item will distrupt the spell.</p>
 <p>Destroy</p>
-<p>I summon a force to destroy your <item>.</p>
+<p>I summon a force to destroy your (item).</p>
 <p>Celestial:Yes    :: Scroll: Yes</p>
 <p>Earth:Yes        ::Potion No</p>
 <p>Manifold:No</p>
@@ -323,7 +323,7 @@
 <p>Duration: Instant</p>
 <p>This spell allows the caster to cast a bolt of magical fire, dealing 40 hit points of eldritch fire damage to the target. The fire is eldritch in origin and will not otherwise set anything alight.</p>
 <p>Eldrich Blast</p>
-<p>I call fourth a  <flame ice lightning or stone>  blast 45.</p>
+<p>I call fourth a  (flame ice lightning or stone)  blast 45.</p>
 <p>Celestial:Yes    :: Scroll: No</p>
 <p>Earth:No        ::Potion No</p>
 <p>Manifold:No</p>
@@ -344,7 +344,7 @@
 <p>Duration: Indefinate</p>
 <p>This spell protects the recipient from the next effect with the word "elemental" in the verbal. It is then immediately used up. When used, the call is "Elemental Shield."</p>
 <p>Empathic Healing</p>
-<p>I call upon the earth to transfer <effect>.</p>
+<p>I call upon the earth to transfer (effect).</p>
 <p>Celestial:No    :: Scroll: No</p>
 <p>Earth:Yes        ::Potion No</p>
 <p>Manifold:No</p>
@@ -365,7 +365,7 @@
 <p>Duration: Indefinate</p>
 <p>This spell endows the recipient with the ability to do three extra points of damage on the next swing, if it hits the target. The total damage must be announced while swinging. Once called, the spell is used up whether the blow was successful or not. The spell may be stacked with two other Blade Effects see Table 5-6 on page 64 , but the spells will only work one at a time. It does not allow you to hurt a monster that can only be damaged by magical weapons. Endow will not benefit creatures that have Superhuman Strength greater than +1, and will only add one to a creature with +1 strength.</p>
 <p>Enflame</p>
-<p>I summon a force to enflame your <item> 20.</p>
+<p>I summon a force to enflame your (item) 20.</p>
 <p>Celestial:Yes    :: Scroll: No</p>
 <p>Earth:No        ::Potion No</p>
 <p>Manifold:No</p>
@@ -393,14 +393,14 @@
 <p>Duration: Instant</p>
 <p>This spell free an undead creature from the effects of a Trap Undead spell. This spell will not affect a living target, although it will remove a living person's  Shield Magic or Reflect Magic.</p>
 <p>Fumble</p>
-<p>I summon a force to fumble your  <item>.</p>
+<p>I summon a force to fumble your  (item).</p>
 <p>Celestial:Yes    :: Scroll: Yes</p>
 <p>Earth:Yes        ::Potion No</p>
 <p>Manifold:No</p>
 <p>Duration: Instant</p>
 <p>This spell causes the target to be unable to use a specific hand-held item. Only the item named may be fumbled in this manner. Saying a general description like "weapon" is fine, although if the target is holding two items which match the description, then it is the target's choice as to which they cannot use. A shield is not considered a "weapon" for purposes of this spell. Spell packets cannot be affected, while orange gas globes can be affected.</p>
 <p>Guardian of the Four</p>
-<p>I grant you the power of a <fire, ide, lightning or stone> shield.</p>
+<p>I grant you the power of a (fire, ide, lightning or stone) shield.</p>
 <p>Celestial:Yes    :: Scroll: Yes</p>
 <p>Earth:No        ::Potion No</p>
 <p>Manifold:Yes</p>
@@ -608,7 +608,7 @@
 <p>Earth:Yes        ::Potion Yes</p>
 <p>Manifold:Yes</p>
 <p>Duration: Instant</p>
-<p>This spell will remove all currently active effects with “Physical” in the verbal from the target. Damage is not cured.</p>
+<p>This spell will remove all currently active effects with "Physical" in the verbal from the target. Damage is not cured.</p>
 <p>Remove Weakness</p>
 <p>I rid you of your weakness.</p>
 <p>Celestial:No    :: Scroll: No</p>
@@ -638,7 +638,7 @@
 <p>Duration: Indefinate</p>
 <p>This spell will remain in effect as long as the subject's hands are clasped overhead and they do not receive any body damage. The recipient is protected against all non-ranged attacks from undead creatures. Ranged attacks (such as spells, missile weapons, and gas globes) can affect the recipient. If you are unsure if an attacker is undead or not, you will be affected by them. You may not call a Hold or otherwise go out of game to ascertain their status. The character with a Sanctuary active may use no game abilities except touchcasting on themselves.  Attempting to pick up an item will disrupt the spell.</p>
 <p>Shatter</p>
-<p>I summon a force to shatter your <item>.</p>
+<p>I summon a force to shatter your (item).</p>
 <p>Celestial:Yes    :: Scroll: Yes</p>
 <p>Earth:Yes        ::Potion No</p>
 <p>Manifold:No</p>
@@ -678,7 +678,7 @@
 <p>Earth:Yes        ::Potion No</p>
 <p>Manifold:No</p>
 <p>Duration: 5 minutes</p>
-<p>The victim of this spell cannot talk and cannot cast any spell. The victim must still call out the damage points his or her weapons do if combat ensues while the spell is in effect, as well as any out-of-game “trigger” phrases such as “Reflect Magic” or “Parry.” The silence can be removed by either Aw aken or Dispel Magic. This is not a charm spell and thus it cannot be resisted by those with the Resist Charm ability.</p>
+<p>The victim of this spell cannot talk and cannot cast any spell. The victim must still call out the damage points his or her weapons do if combat ensues while the spell is in effect, as well as any out-of-game "trigger" phrases such as "Reflect Magic" or "Parry." The silence can be removed by either Aw aken or Dispel Magic. This is not a charm spell and thus it cannot be resisted by those with the Resist Charm ability.</p>
 <p>Silver Aura</p>
 <p>I grant you the power of a silver aura.</p>
 <p>Celestial:Yes    :: Scroll: Yes</p>
@@ -713,7 +713,7 @@
 <p>Earth:Yes        ::Potion Yes</p>
 <p>Manifold:No</p>
 <p>Duration: Indefinate</p>
-<p>This spell will introduce impurities into the victim’s blood. The victim is left extremely weak, and unable to fight or move faster than normal walking speed. The victim becomes unable to use any game skills. This spell might not function against creatures with no metabolism. This spell can be removed by a Purify Blood spell or a Dispel Magic spell.</p>
+<p>This spell will introduce impurities into the victim's blood. The victim is left extremely weak, and unable to fight or move faster than normal walking speed. The victim becomes unable to use any game skills. This spell might not function against creatures with no metabolism. This spell can be removed by a Purify Blood spell or a Dispel Magic spell.</p>
 <p>Tarry</p>
 <p>I grant you the gift of tarrying.</p>
 <p>Celestial:No    :: Scroll: No</p>
@@ -764,7 +764,7 @@
 <p>Duration: Line of Sight</p>
 <p>This spell snares the arms of its victim, binding them straight to its sides, and immobilizes the victim completely from the neck down. The victim may talk freely, but may not use any game skills requiring use of the arms, including using a weapon or shield, casting a spell, or activating a gas globe. The victim may not walk, run, or be moved in any way. Any item the victim is holding cannot be dropped. However, since the effect allows the victim to be searched, anyone else can choose to physically remove a hand-held item from the victim simply by  searching them. Even a victim with Superhuman Strength cannot prevent himself from being "searched" in this manner. This spell does not prevent the victim from being searched or being given a Killing Blow.</p>
 <p>Wither Limb</p>
-<p>I call upon chaos to wither your <Limb>.</p>
+<p>I call upon chaos to wither your (Limb).</p>
 <p>Celestial:No    :: Scroll: No</p>
 <p>Earth:Yes        ::Potion Yes</p>
 <p>Manifold:No</p>
@@ -779,31 +779,31 @@
 <p>Cloak</p>
 <p>A magical defense that works at will (even before a spell defense if desired) and protects against only one type of effect such as Fire or Binding Magic. For example, a Cloak versus Fire could be used against both a Flame Bolt spell or an Elemental flame packet attack.</p>
 <p>Obliteration</p>
-<p>A very powerful Formal Magic that causes the victim to suffer the same effect as dying and resurrecting three times, although only one trip to the Earth circle is necessary. However, only one “pick” is made from death’s bag. After the Formal Magic is complete, the victim is still able to receive a Life spell for the next five minutes, and only one such spell is necessary to restore the creature to one body point. If a Life spell is received, the creature is not forced to resurrect at all.</p>
+<p>A very powerful Formal Magic that causes the victim to suffer the same effect as dying and resurrecting three times, although only one trip to the Earth circle is necessary. However, only one "pick" is made from death's bag. After the Formal Magic is complete, the victim is still able to receive a Life spell for the next five minutes, and only one such spell is necessary to restore the creature to one body point. If a Life spell is received, the creature is not forced to resurrect at all.</p>
 <p>Spirit Link</p>
 <p>Spirit Link magically attaches an item to a spirit, thus making it unstealable. The item must always remain in contact with the creature to which it is linked. (It does not have to touch the body directly; a glove or other piece of clothing can come between the item and the person.) When a creature with a Spirit Linked item dies, the Spirit Linked item becomes insubstantial with the spirit and travels to resurrect, reforming with the spirit. If the item is a container, it does not bring the contents with it. If the creature permanently dies, the body and item return to the point where the body dissipated. The item is then linked to the next creature with a spirit that takes picks it up, even through gloves or other articles of clothing or armor.</p>
 <p>Spirit Mark</p>
-<p>Used to mark a particular person’s spirit. The mark is always present on the spirit’s body, in the location and with a design as decided by the original Formal Magic caster. This mark can be covered by normal means. </p>
+<p>Used to mark a particular person's spirit. The mark is always present on the spirit's body, in the location and with a design as decided by the original Formal Magic caster. This mark can be covered by normal means. </p>
 <p>Vengeance</p>
-<p>Causes a retributive strike of pure magical damage to any being inflicting a killing blow upon the bearer of this formal magic. This damage occurs after the killing blow and is not avoidable in any manner. When a Vengeance is triggered, the call will be “<number> Arcane Vengeance”</p>
+<p>Causes a retributive strike of pure magical damage to any being inflicting a killing blow upon the bearer of this formal magic. This damage occurs after the killing blow and is not avoidable in any manner. When a Vengeance is triggered, the call will be "(number) Arcane Vengeance"</p>
 <p>Formal Magic Components</p>
 <p>In order to cast a spell from a Formal Magic scroll, one must also have the Formal Magic Components. These components are represented in-game by a tag with a description of the item and its level and type. Some chapters also provide the actual prop itself. If your chapter does not, it can only increase your role-playing fun if you were to provide your own props. </p>
 <p>Formal Magic Components may be found as treasure in a module, on an NPC, or randomly in the woods. </p>
 <p>Any character can tell if they are looking at a formal component automatically. To identify the level and type of components (i.e. P4 or C1) you must possess one level of the formal magic skill of either school.</p>
-<p>Components come in various ‘flavors’: Power (P), Creation (C), Elemental (E), Time (T), Void (V), Destruction (D), Spirit (S).</p>
+<p>Components come in various "flavors": Power (P), Creation (C), Elemental (E), Time (T), Void (V), Destruction (D), Spirit (S).</p>
 <p>Each component has a value of 1, 2 or 4. Formal Magic costs are listed with the total value of each type of needed component. For example, P5 means any combination of Power components totaling a value of 5. One spell, Gr eater Extension, specifically requires a Power component of value 2 or 4 in addition to other components. Components expire no longer than 2 years after the issue date.If there is no printed expiration date then the expiration date is assumed to be one year.</p>
 <p>Extended Circles of Power</p>
 <p>In order to use the powers of an Extended Circle, you must be Invested in that Circle. Investiture is a Formal Magic Spell that must be cast upon you in that Circle.</p>
-<p>In order to pass into or out of the Circle, you must be “recognized” by an invested member of the Circle. The invested member must clearly gesture, touch, or name the subject creature and must state “the Circle recognizes you.” This is an out-of-game statement, so it can be made while Silenced. The effect is understood in-game by all who hear it.</p>
+<p>In order to pass into or out of the Circle, you must be "recognized" by an invested member of the Circle. The invested member must clearly gesture, touch, or name the subject creature and must state "the Circle recognizes you." This is an out-of-game statement, so it can be made while Silenced. The effect is understood in-game by all who hear it.</p>
 <p>Upon being recognized, a person must immediately enter or exit the Circle. If the recognized person does not immediately act upon the recognition, then the recognition will expire.  </p>
-<p>Invested members may walk freely into or out of the Circle, since it is assumed that they “recognize” themselves. Invested members who are unconscious (or conscious, yet unwilling) will not pass through the Circle unless recognized by someone else. When using combat skills or spells, you must be completely inside or outside of the Circle of Power. For example, you cannot begin a spell incant inside the Circle, and then step out to throw your packet.</p>
-<p>If you want to raid a Circle of Power, the same rules as raiding a cabin will apply; you must have a marshal present. See “Searching a Cabin” on page 95</p>
+<p>Invested members may walk freely into or out of the Circle, since it is assumed that they "recognize" themselves. Invested members who are unconscious (or conscious, yet unwilling) will not pass through the Circle unless recognized by someone else. When using combat skills or spells, you must be completely inside or outside of the Circle of Power. For example, you cannot begin a spell incant inside the Circle, and then step out to throw your packet.</p>
+<p>If you want to raid a Circle of Power, the same rules as raiding a cabin will apply; you must have a marshal present. See "Searching a Cabin" on page 95</p>
 <p>Identify</p>
-<p>An Extended Celestial Circle is capable of performing an Identify on an item or person. The item or person to be Identified and the invested person performing the Identify must be within the circle completely. The invested person touches the target of the identify and says “Identify”.</p>
-<p>If the target is an object directly then the invested person reads the tag describing the item’s properties and learns them in the time it takes to read the information.</p>
+<p>An Extended Celestial Circle is capable of performing an Identify on an item or person. The item or person to be Identified and the invested person performing the Identify must be within the circle completely. The invested person touches the target of the identify and says "Identify".</p>
+<p>If the target is an object directly then the invested person reads the tag describing the item's properties and learns them in the time it takes to read the information.</p>
 <p>If the target is a person then the target tells the invested person which active spells or Formal Magic spells are active on them as well as what magical items they have in their possession and what the properties of those items are and how to activate them as though the items had been directly identified by the invested person. Sometimes an Identify will reveal additional properties of magical creatures. It takes as long to perform an identification of a person as it does for the target to describe all of the results.</p>
-<p>Everyone who hears or observes the Identify call/process is aware of an identification taking place though they should attempt not to overhear the results. If you are Out of Game able to tell who the person performing the identification is, then you know who it is in game as well. If a transform is active and Identified, the school of it and the name of it are revealed, but neither the presence nor any information about a dormant transformation is revealed. You can prevent an Identification unless you’re helpless.</p>
-<p>The time to Identify is In Game. If you’re interrupted then you are interrupted (including if contact is broken by the subject). </p>
+<p>Everyone who hears or observes the Identify call/process is aware of an identification taking place though they should attempt not to overhear the results. If you are Out of Game able to tell who the person performing the identification is, then you know who it is in game as well. If a transform is active and Identified, the school of it and the name of it are revealed, but neither the presence nor any information about a dormant transformation is revealed. You can prevent an Identification unless you're helpless.</p>
+<p>The time to Identify is In Game. If you're interrupted then you are interrupted (including if contact is broken by the subject). </p>
 <p>While there is no set order to presenting the information and you decide where to start, you must give out all the information you have with the chance of 3rd party interruption</p>
 <p>Resurrection</p>
 <p>An Extended Earth Circle is capable of providing Resurrections.</p>

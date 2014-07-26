@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/">
+<p>Alchemical Substances</p>
+<p>Alchemical Solvent</p>
+<p>Level Contact : 2</p>
+<p>Level Elixer : </p>
+<p>Level Gas : </p>
+<p>Duration: Instant</p>
+<p>This solvent, covering one square foot per dose, will remove either an Oil of Slipperiness or a Past of Stickiness. Once used, the entire dosage is consumed.</p>
+<p>---</p>
+<p>Antidote (Contact)</p>
+<p>Level Contact : </p>
+<p>Level Elixer : 2</p>
+<p>Level Gas : </p>
+<p>Duration: Instant</p>
+<p>Antidotes are used to cure lasting effects, such as from Sleep elixirs and not from instantaneous effects such as damage. Antidote (Contact) cures any contact substance. Antidote (Ingested) cures any ingested elixir. Antidote (Gas) cures any gas substance. It does not remove any monster carrier attacks. Gas Antidote will remove Monster Packet attacks only if the attack included the word ?as? Enslavement needs a specific antidote.</p>
+<p>---</p>
+<p>Antidote (Gas)</p>
+<p>Level Contact : </p>
+<p>Level Elixer : 4</p>
+<p>Level Gas : </p>
+<p>Duration: Instant</p>
+<p>Antidotes are used to cure lasting effects, such as from Sleep elixirs and not from instantaneous effects such as damage. Antidote (Contact) cures any contact substance. Antidote (Ingested) cures any ingested elixir. Antidote (Gas) cures any gas substance. It does not remove any monster carrier attacks. Gas Antidote will remove Monster Packet attacks only if the attack included the word ?as? Enslavement needs a specific antidote.</p>
+<p>---</p>
+<p>Antidote (Ingested)</p>
+<p>Level Contact : </p>
+<p>Level Elixer : 5</p>
+<p>Level Gas : </p>
+<p>Duration: Instant</p>
+<p>Antidotes are used to cure lasting effects, such as from Sleep elixirs and not from instantaneous effects such as damage. Antidote (Contact) cures any contact substance. Antidote (Ingested) cures any ingested elixir. Antidote (Gas) cures any gas substance. It does not remove any monster carrier attacks. Gas Antidote will remove Monster Packet attacks only if the attack included the word ?as? Enslavement needs a specific antidote.</p>
+<p>---</p>
+<p>Berserk</p>
+<p>Level Contact : </p>
+<p>Level Elixer : 10</p>
+<p>Level Gas : </p>
+<p>Duration: 5 Minutes</p>
+<p></p>
+<p>---</p>
+<p>Cause Damage</p>
+<p>Level Contact : </p>
+<p>Level Elixer : 2</p>
+<p>Level Gas : 3</p>
+<p>Duration: Instant</p>
+<p>This substance does 10 points of body damage.</p>
+<p>---</p>
+<p>Cause Light Damage</p>
+<p>Level Contact : </p>
+<p>Level Elixer : 1</p>
+<p>Level Gas : 2</p>
+<p>Duration: Instant</p>
+<p>This substance does 5 points of body damage.</p>
+<p>---</p>
+<p>Cause Serious Damage</p>
+<p>Level Contact : </p>
+<p>Level Elixer : 4</p>
+<p>Level Gas : 5</p>
+<p>Duration: Instant</p>
+<p>This substance does 20 points of body damage.</p>
+<p>---</p>
+<p>Charm</p>
+<p>Level Contact : </p>
+<p>Level Elixer : </p>
+<p>Level Gas : 8</p>
+<p>Duration: 5 Minutes</p>
+<p>This alchemical substance will cause the victim to be under the same effects as a Charm spell. The victim will be Charmed to the creature who administered the poison. It can be resisted by those with a Resist Charm ability.</p>
+<p>---</p>
+<p>Cure Light Damage</p>
+<p>Level Contact : </p>
+<p>Level Elixer : 1</p>
+<p>Level Gas : </p>
+<p>Duration: Instant</p>
+<p>This substance heals 5 points of body damage.</p>
+<p>---</p>
+<p>Death</p>
+<p>Level Contact : </p>
+<p>Level Elixer : 9</p>
+<p>Level Gas : </p>
+<p>Duration: Instant</p>
+<p>This causes death immediately, see Table 2-2 on page 23. This elixir does not leave any traceable marks, and cannot be identified as the cause of death. The only thing that will save the victim of this poison is a Life spell given within five minutes.</p>
+<p>---</p>
+<p>Enslavement</p>
+<p>Level Contact : </p>
+<p>Level Elixer : </p>
+<p>Level Gas : </p>
+<p>Duration: Indefinate</p>
+<p>The victim of this poison will be enslaved to the person administering the poison and will obey absolutely any and all commands given by the person to whom they are enslaved, and will even commit</p>
+<p>suicide. Otherwise, it is has the same effects as a Charm spell. Enslavement can only be cured by a specific antidote. This effect is also removed if the character resurrects. This effect is stronger than Calm, Calm Animal, Charm, Charm Animal, Shun, shun animal, Control Undead, or Fear. See Table 5-6 on page 64. Please note that additional Enslavement effects will override another </p>
+<p>Enslavement effect, see "Charm Effects" on page 47.</p>
+<p>Enslavement is a powerful ability which particularly has the potential to ruin the fun of any player. As such the use of this effect can never be used by a PC on a PC.</p>
+<p>No other effect (either LCO or otherwise) may duplicate the ability of Enslavement.</p>
+<p>In addition, the following rules apply to Enslavement: </p>
+<p>You cannot administer Enslavement to yourself.</p>
+<p>You cannot be enslaved to "Act normally".However a person under the effects of enslavement does not act like a robot or strangely, they are just compelled to follow the wishes of the enslaver.</p>
+<p>The duration of Enslavement is permanent, and it can only be cured by the specific antidote or the resurrection of the target.</p>
+<p>---</p>
+<p>Enslavement Antidote</p>
+<p>Level Contact : </p>
+<p>Level Elixer : 10</p>
+<p>Level Gas : </p>
+<p>Duration: Instant</p>
+<p>This antidote is the only thing that will release a victim from the effects of an Enslavement poison. After the Enslavement is cured, the victim remembers everything that happened and knows they were enslaved and to whom.</p>
+<p>---</p>
+<p>Feeblemind</p>
+<p>Level Contact : </p>
+<p>Level Elixer : 6</p>
+<p>Level Gas : 7</p>
+<p>Duration: 5 Minutes</p>
+<p>This alchemical substance lowers a character's intelligence to that of an idiot for 5 minutes. While under its effects, a character cannot use any skills and is so stupid that he or she is not even aware of the poisoning.</p>
+<p></p>
+<p>---</p>
+<p>Forget-it-Well</p>
+<p>Level Contact : </p>
+<p>Level Elixer : 10</p>
+<p>Level Gas : </p>
+<p>Duration: Indefinate</p>
+<p>This poison will cause the victim to forget everything that happened within the last hour. This amnesia becomes permanent if not cured within ten minutes by a Purify Bl ood spell or the appropriate antidote. A Killing Blow within the ten minutes will not reverse the memory loss effect of this poison, and neither will resurrection, but if the victim's body dissipates before the 10 minute period has elapsed, then the poison will be negated and the memories restored.  Forget-it poisons, like all poisons, may never be used on a creature that is dead.</p>
+<p></p>
+<p>---</p>
+<p>Forget-Me-Not</p>
+<p>Level Contact : </p>
+<p>Level Elixer : 7</p>
+<p>Level Gas : </p>
+<p>Duration: Indefinate</p>
+<p>This alchemical substance will cause the victim to lose memory of the last 15 minutes. In every other way it acts the same as a Forget-it-Well .</p>
+<p></p>
+<p>---</p>
+<p>Hallucinoid</p>
+<p>Level Contact : </p>
+<p>Level Elixer : 2</p>
+<p>Level Gas : </p>
+<p>Duration: 5 Minutes</p>
+<p>This alchemical substance causes the victim to hallucinate. They will see pink elephants and other strange things for 5 minutes. The victim will probably be aware that they are under the effects of a poison but will be unable to do much about it. When under its effects, game skills can be used, but the player will most likely use them against imaginary creatures.</p>
+<p></p>
+<p>---</p>
+<p>Intoxicant</p>
+<p>Level Contact : </p>
+<p>Level Elixer : 1</p>
+<p>Level Gas : </p>
+<p>Duration: 1 Hour</p>
+<p>This acts as a strong alcoholic drink. It will render the victim quite drunk for 1 hour.</p>
+<p></p>
+<p>---</p>
+<p>Liquid Light</p>
+<p>Level Contact : 1</p>
+<p>Level Elixer : </p>
+<p>Level Gas : </p>
+<p>Duration: 5 Days</p>
+<p>This substance will allow a glow stick or other light physical representation to be used in game as per the Illumination spell. It cannot be applied to a tree or other object to make it glow; it can only be used on a phys-rep that gives off light. Please note that Alchemy 1 is required to activate a Liquid Light, but not to hold, or otherwise use one, once it has been activated.</p>
+<p></p>
+<p>---</p>
+<p>Nausea</p>
+<p>Level Contact : </p>
+<p>Level Elixer : 5</p>
+<p>Level Gas : 6</p>
+<p>Duration: 5 Minutes</p>
+<p>This elixir will cause the victim to be nauseous for five minutes, during which time no in game skills can be used.</p>
+<p></p>
+<p>---</p>
+<p>Oil of Slipperiness</p>
+<p>Level Contact : 5</p>
+<p>Level Elixer : </p>
+<p>Level Gas : </p>
+<p>Duration: 1 Hour</p>
+<p>This is a contact oil that will last for one hour once exposed to air. If put on an item, the oil will make the item impossible to pick up. It could also be placed on the ground (if enough were used) to prevent anyone from standing in the area. You would not be able to even crawl out of the area unless you could grab a hold onto something or someone outside of the area to pull free. One dose will cover an object up to one square foot in area. It can be counteracted by an Alchemical Solvent or a Paste of Stickiness . </p>
+<p></p>
+<p>---</p>
+<p>Paralyze</p>
+<p>Level Contact : </p>
+<p>Level Elixer : 8</p>
+<p>Level Gas : 9</p>
+<p>Duration: 5 Minutes</p>
+<p>This poison is identical to a Paralyze spell.</p>
+<p></p>
+<p>---</p>
+<p>Paranoia</p>
+<p>Level Contact : </p>
+<p>Level Elixer : 2</p>
+<p>Level Gas : 3</p>
+<p>Duration: 5 Minutes</p>
+<p>This causes the victim to think that people he or she normally dislikes are out to kill them. It lasts one hour.</p>
+<p></p>
+<p>---</p>
+<p>Paste of Stickiness</p>
+<p>Level Contact : 5</p>
+<p>Level Elixer : </p>
+<p>Level Gas : </p>
+<p>Duration: 1 Hour</p>
+<p>It can also be used to pin people to the ground if enough is available. Note that this paste will have no effect in combat as it takes three seconds to set; thus you cannot put it on your shield or sword to ?apture?enemy weapons. It can be counteracted by an Alchemical Solvent, an Oil of Slipperiness , or a Release spell.</p>
+<p></p>
+<p>---</p>
+<p>Poison Shield</p>
+<p>Level Contact : </p>
+<p>Level Elixer : 4</p>
+<p>Level Gas : </p>
+<p>Duration: Indefinate</p>
+<p>This elixir works exactly as the spell of the same name. It grants a Spell Defense to the recipient. It cannot be stacked with the spell of the same name, nor can it be removed by Purify Blood.</p>
+<p>---</p>
+<p>Sleep</p>
+<p>Level Contact : </p>
+<p>Level Elixer : 6</p>
+<p>Level Gas : 7</p>
+<p>Duration: 5 Minutes</p>
+<p>This poison acts as a Sleep spell.</p>
+<p>---</p>
+<p>Vertigo</p>
+<p>Level Contact : </p>
+<p>Level Elixer : 5</p>
+<p>Level Gas : 6</p>
+<p>Duration: 5 Minutes</p>
+<p>This poison will cause the victim to lose balance and be unable to remain standing for five minutes, during which the victim can not use any in-game skills.</p>
+<p>---</p>
+<p>Vorpal Coating 1</p>
+<p>Level Contact : 1</p>
+<p>Level Elixer : </p>
+<p>Level Gas : </p>
+<p>Duration: Indefinate</p>
+<p>Putting this contact gel on a weapon makes the weapon do 5 extra points of damage for a set number of hits. It comes in three variations: 1 hit Vorpal Coating, 3 hit Vorpal Coating, and 5 hit Vorpal Coating.</p>
+<p></p>
+<p>---</p>
+<p>Vorpal Coating 3</p>
+<p>Level Contact : 3</p>
+<p>Level Elixer : </p>
+<p>Level Gas : </p>
+<p>Duration: Indefinate</p>
+<p>Putting this contact gel on a weapon makes the weapon do 5 extra points of damage for a set number of hits. It comes in three variations: 1 hit Vorpal Coating, 3 hit Vorpal Coating, and 5 hit Vorpal Coating.</p>
+<p></p>
+<p>---</p>
+<p>Vorpal Coating 5</p>
+<p>Level Contact : 5</p>
+<p>Level Elixer : </p>
+<p>Level Gas : </p>
+<p>Duration: Indefinate</p>
+<p>Putting this contact gel on a weapon makes the weapon do 5 extra points of damage for a set number of hits. It comes in three variations: 1 hit Vorpal Coating, 3 hit Vorpal Coating, and 5 hit Vorpal Coating.</p>
+</Root>

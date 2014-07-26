@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><body>
+<h1>Chapter 5 : Spells</h1>
+<p>Every Spell listed here is available at every NERO Chapter.</p>
+<p>The information after the spell's in game name includes the spell's level, whether it is Celestial or Earth, whether it can be made into a Potion or Scroll, whether it can be Manifolded, and its duration.</p>
+<p>Spell Defenses</p>
+<p>There are a few spells and effects that will defend the recipient from incoming spells or attacks. Each can protect against one spell or effect only. They are cast upon the recipient in advance and stay with the recipient until "activated" by the effect they are meant to prevent. The Spell Defenses are Displacement, Elemental Shield, Guardian of the Four, Magic Armor, Poison Shield, Reflect Magic, and Shield Magic.</p>
+<p>In-game, you are always aware of what Spell Defenses are active on you. Once a Spell Defense is active, then it will affect the next applicable incoming effect, regardless of whether or not you would have been affected. It will then be used up.</p>
+<p>All Spell Defenses must be called correctly, for example "Reflect Magic" or "Phase", to be effective and must be called within three seconds or are lost or not used respectively.</p>
+<p>Spell Durations</p>
+<p>Concentration</p>
+<p>This spell lasts as long as the caster maintains concentration. While concentrating, the caster cannot run or use any game skills.</p>
+<p>Continuous</p>
+<p>Continuous is a specific form of concentration which requires the caster to continually chant a litany, recite a verse, or sing a song with the limits listed under manifold page 39 except you do not need the Manifold skill or a Hearth. At the end of each repetition the caster may state the incant for the spell and deliver the effect as specified in the description of the spell. As long as the caster continues to repeat the verse they may continue to recast the spell using only one spell slot. Each spell with this duration may impose other limits upon the caster to continue the spell. The caster may not speak outside the words of the verse or incant and may not use other skills while continuing a spell and may not pause longer than 5 seconds. The limitations of Concentration also apply. If a continuous spell is used once the caster may simply state the incant.</p>
+<p>Timed</p>
+<p>Some spells last for a specific amount of time, either 5 seconds, 1, 5, or 10 minutes, 1 hour, or 5 days.</p>
+<p>Instant</p>
+<p>The duration of this spell is instantaneous, but its effects may be permanent. (Thus, any damage taken from these spells is permanent until cured.)</p>
+<p>Indefinite</p>
+<p>The effects of this spell are permanent unless the victim receives the proper counter spell or the spell's effect is used up (or the victim dies). The counter spell will be listed in the spell description.</p>
+<p>Line of Sight</p>
+<p>This spell lasts as long as the caster could see the victim from wherever the caster is located. It also lasts if the victim could see the caster.</p>
+<p>Basically, if you can draw a straight line between the caster and the victim without the line being obscured by any large, immovable obstacles, then the Line of Sight is still in effect. The caster closing their eyes or hiding behind someone else does not break Line of Sight.</p>
+<p>If the caster breaks Line of Sight by imposing a very large object such as a building or large tree between the caster and the victim for longer than 10 seconds, the spell is broken. If view of the character is resumed before the 10 seconds is up, then the spell continues. These spells will cease immediately if the caster falls unconscious line of sight lasts for a maximum of 5 days.</p>
+
+<p> </p>
+<h1>Common Formal Magic Spells</h1>
+<p>Formal Magic Scrolls are magical scrolls of immense power in and of themselves and will always detect as magical. They are treated as Magic Items for purposes of stealing. A Formal Magic scroll can only be read or copied by one who has the skill Formal Magic in the appropriate school. To everyone else, the scroll will be unreadable.</p>
+<p>Here is a description of some of the most common types of Formal Magic effects on Magic Items. This is not a complete list, but merely the ones which most players will encounter. Please see the Formal Magic Casting Rules and individual Formal Magic Spell descriptions for more details.</p>
+<p>Bane</p>
+<p>A magical defense that reflects the attack back upon the attacker. It works at will (even before a spell defense if desired), and protects against only one type of effect. For example, a Bane versus Sleep could be used against a Sleep spell or a Sleep gas poison.</p>
+<p>Cloak</p>
+<p>A magical defense that works at will (even before a spell defense if desired) and protects against only one type of effect such as Fire or Binding Magic. For example, a Cloak versus Fire could be used against both a Flame Bolt spell or an Elemental flame packet attack.</p>
+<p>Obliteration</p>
+<p>A very powerful Formal Magic that causes the victim to suffer the same effect as dying and resurrecting three times, although only one trip to the Earth circle is necessary. However, only one "pick" is made from death's bag. After the Formal Magic is complete, the victim is still able to receive a Life spell for the next five minutes, and only one such spell is necessary to restore the creature to one body point. If a Life spell is received, the creature is not forced to resurrect at all.</p>
+<p>Spirit Link</p>
+<p>Spirit Link magically attaches an item to a spirit, thus making it unstealable. The item must always remain in contact with the creature to which it is linked. (It does not have to touch the body directly; a glove or other piece of clothing can come between the item and the person.) When a creature with a Spirit Linked item dies, the Spirit Linked item becomes insubstantial with the spirit and travels to resurrect, reforming with the spirit. If the item is a container, it does not bring the contents with it. If the creature permanently dies, the body and item return to the point where the body dissipated. The item is then linked to the next creature with a spirit that takes picks it up, even through gloves or other articles of clothing or armor.</p>
+<p>Spirit Mark</p>
+<p>Used to mark a particular person's spirit. The mark is always present on the spirit's body, in the location and with a design as decided by the original Formal Magic caster. This mark can be covered by normal means. </p>
+<p>Vengeance</p>
+<p>Causes a retributive strike of pure magical damage to any being inflicting a killing blow upon the bearer of this formal magic. This damage occurs after the killing blow and is not avoidable in any manner. When a Vengeance is triggered, the call will be "(number) Arcane Vengeance"</p>
+<p>Formal Magic Components</p>
+<p>In order to cast a spell from a Formal Magic scroll, one must also have the Formal Magic Components. These components are represented in-game by a tag with a description of the item and its level and type. Some chapters also provide the actual prop itself. If your chapter does not, it can only increase your role-playing fun if you were to provide your own props. </p>
+<p>Formal Magic Components may be found as treasure in a module, on an NPC, or randomly in the woods. </p>
+<p>Any character can tell if they are looking at a formal component automatically. To identify the level and type of components (i.e. P4 or C1) you must possess one level of the formal magic skill of either school.</p>
+<p>Components come in various "flavors": Power (P), Creation (C), Elemental (E), Time (T), Void (V), Destruction (D), Spirit (S).</p>
+<p>Each component has a value of 1, 2 or 4. Formal Magic costs are listed with the total value of each type of needed component. For example, P5 means any combination of Power components totaling a value of 5. One spell, Gr eater Extension, specifically requires a Power component of value 2 or 4 in addition to other components. Components expire no longer than 2 years after the issue date.If there is no printed expiration date then the expiration date is assumed to be one year.</p>
+<p>Extended Circles of Power</p>
+<p>In order to use the powers of an Extended Circle, you must be Invested in that Circle. Investiture is a Formal Magic Spell that must be cast upon you in that Circle.</p>
+<p>In order to pass into or out of the Circle, you must be "recognized" by an invested member of the Circle. The invested member must clearly gesture, touch, or name the subject creature and must state "the Circle recognizes you." This is an out-of-game statement, so it can be made while Silenced. The effect is understood in-game by all who hear it.</p>
+<p>Upon being recognized, a person must immediately enter or exit the Circle. If the recognized person does not immediately act upon the recognition, then the recognition will expire.  </p>
+<p>Invested members may walk freely into or out of the Circle, since it is assumed that they "recognize" themselves. Invested members who are unconscious (or conscious, yet unwilling) will not pass through the Circle unless recognized by someone else. When using combat skills or spells, you must be completely inside or outside of the Circle of Power. For example, you cannot begin a spell incant inside the Circle, and then step out to throw your packet.</p>
+<p>If you want to raid a Circle of Power, the same rules as raiding a cabin will apply; you must have a marshal present. See "Searching a Cabin" on page 95</p>
+<p>Identify</p>
+<p>An Extended Celestial Circle is capable of performing an Identify on an item or person. The item or person to be Identified and the invested person performing the Identify must be within the circle completely. The invested person touches the target of the identify and says "Identify".</p>
+<p>If the target is an object directly then the invested person reads the tag describing the item's properties and learns them in the time it takes to read the information.</p>
+<p>If the target is a person then the target tells the invested person which active spells or Formal Magic spells are active on them as well as what magical items they have in their possession and what the properties of those items are and how to activate them as though the items had been directly identified by the invested person. Sometimes an Identify will reveal additional properties of magical creatures. It takes as long to perform an identification of a person as it does for the target to describe all of the results.</p>
+<p>Everyone who hears or observes the Identify call/process is aware of an identification taking place though they should attempt not to overhear the results. If you are Out of Game able to tell who the person performing the identification is, then you know who it is in game as well. If a transform is active and Identified, the school of it and the name of it are revealed, but neither the presence nor any information about a dormant transformation is revealed. You can prevent an Identification unless you're helpless.</p>
+<p>The time to Identify is In Game. If you're interrupted then you are interrupted (including if contact is broken by the subject). </p>
+<p>While there is no set order to presenting the information and you decide where to start, you must give out all the information you have with the chance of 3rd party interruption</p>
+<p>Resurrection</p>
+<p>An Extended Earth Circle is capable of providing Resurrections.</p>
+<p>The spirit to be Resurrected must be in the Circle. This will take 5 minutes to complete and will bring a body to full body points.</p>
+<p>During the 5 minutes, it is apparent to all observers that a resurrection is occurring, although the exact identity is unrecognizable to all except the invested healer performing the resurrection. The</p>
+<p>healer may choose to reveal the identity of the person they are resurrecting, if desired. For more on resurrections, see "Matters of Life and Death" on page 22.</p>
+<p>Magic Items</p>
+<p>Magic items can be found or made through the NERO Formal Magic System. Most give the wearer the ability to utilize a spell and some items grant the wearer effects from the Formal Magic system.</p>
+<p>Until you have an item Identified, you will not have the tag for the item and thus will not be able to use it, even if you are already aware of the item's power. You must proceed to the Mages' Guild or monster camp to receive the tag. If you are given the item and are told in-game what the item's powers are and how it is used, you may use the item but must go to the Mages Guild or monster camp immediately thereafter to get the tag. Make sure that any player that gives you a Magic Item phys-rep also gives you the Magic Item Tag.</p>
+<p>Activating Magic Items</p>
+<p>Spells from a magic item act just like a regular spell. They provide the character, no matter what class or level, the ability to use that spell. The correct process to activate an item is to use the phrase "Activate" followed by the spell incant. For Example: "Activate With Mystic Force I Bind You".</p>
+<p>In addition, all the normal rules for casting apply. You must have your hand free, have a packet, be conscious, etc. So you cannot activate an item when in a Web, unconscious, dead, or when tied up. Activating an item IS NOT a Game Ability, so you CAN use an item when you cannot otherwise use a Game Ability or Skill, such as when under the effects of a Taint Blood spell.</p>
+<p>Magic Item Slots</p>
+<p>Chapters may specify how many magic items a player may have active at any given time. This number is between one and five and is clearly posted at event check-in or on the chapter's website.</p>
+<p>If a character has more items on them than the allowed limit they must have a clearly delineated method to separate the active and inactive magic items tags. In order to switch between an active and inactive item at least one minute must be spent while you physically switch your tags between active and inactive. You may only make one switch at a time. If you lose possession of a magic item tag that item becomes inactive for you. During this time you may use no game skills. Characters must be conscious with at least one hand free to switch items between active and inactive states.</p>
+<p>The following Formal Magic Spells will not cease to work on a magic item when it goes from active to inactive: Render Indestructible, Extend Form al Magic, Gr eater Extension, Spirit Link, Spirit Lock, and Delimit.</p>
+<p>Any item can still be used while inactive, but only with the benefit of the effects listed above.</p>
+<p>This limitation on active magic items applies to both Unrestricted and Local Chapter Only Items only as a total (ex: 2 LCO and 3 Unrestricted "active" items in a 5 item slot campaign.)</p>
+<p>Spirit as Magic Item</p>
+<p>For only the purposes of Magic Item Slots, a character's Spirit counts as a single magic item that can be made active as a whole.</p>
+<p>Only the following formal magic spells count for the purposes of this "item:" Enchant, Cloak (Minor), Bane (Minor), Spell Store, Protection Aura, Cloak, Bane, Expanded Enchantment, Spirit Link, Spirit Lock. All other Spirit targeting formal magic spells fall outside of the Magic Item Slot rules. Please note that Spirit Link and Spirit Lock do not cease to work on an item that has been made inactive. </p>
+<p>A PC is always aware of all formal magic spells on their spirit, including, school, specific type, and duration as applicable. </p>
+</body></Root>

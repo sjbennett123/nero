@@ -1,0 +1,185 @@
+<p>Weapon Dimensions</p>
+<p> </p>
+<p>Bow  Ranged</p>
+<p>Base Damage : x</p>
+<p>Blade/Shaft : x"- x"</p>
+<p>Head : x" - x"</p>
+<p>Total Length : 34" - 58"</p>
+<p>Core Size PVC: 1/2" Ultralight x</p>
+<p>Grip 5" - 14"</p>
+<p>---</p>
+<p>Corssbow  Ranged</p>
+<p>Base Damage : x</p>
+<p>Blade/Shaft : x?- x</p>
+<p>Head : x? x"</p>
+<p>Total Length : 12? 24"</p>
+<p>Core Size PVC: 1/2" Ultralight x</p>
+<p>Grip 1?- 8?</p>
+<p>---</p>
+<p>Arrow  Missle</p>
+<p>Base Damage : 3</p>
+<p>Blade/Shaft : x?- x</p>
+<p>Head : x? x"</p>
+<p>Total Length : 12? "</p>
+<p>Core Size PVC: x Ultralight x</p>
+<p>Grip x?- x?</p>
+<p>---</p>
+<p>Bolt  Missle</p>
+<p>Base Damage : 3</p>
+<p>Blade/Shaft : x"- x"</p>
+<p>Head : x? x"</p>
+<p>Total Length : 12? "</p>
+<p>Core Size PVC: x Ultralight x</p>
+<p>Grip x?- x?</p>
+<p>---</p>
+<p>Javelin  Missle</p>
+<p>Base Damage : 2</p>
+<p>Blade/Shaft : x?- x</p>
+<p>Head : x? x"</p>
+<p>Total Length : 36? 40"</p>
+<p>Core Size PVC: x Ultralight x</p>
+<p>Grip x?- x?</p>
+<p>---</p>
+<p>Throwing Dagger  Missle</p>
+<p>Base Damage : 1</p>
+<p>Blade/Shaft : x?- x</p>
+<p>Head : x? x"</p>
+<p>Total Length : 12? 18"</p>
+<p>Core Size PVC: x Ultralight x</p>
+<p>Grip x?- x?</p>
+<p>---</p>
+<p>Bludgeon  Small</p>
+<p>Base Damage : 1</p>
+<p>Blade/Shaft : 8?- 17</p>
+<p>Head : 6? 18"</p>
+<p>Total Length : 12? 26"</p>
+<p>Core Size PVC: 1/2" Ultralight .412,.505</p>
+<p>Grip 1?- 6?</p>
+<p>---</p>
+<p>Dagger  Small</p>
+<p>Base Damage : 1</p>
+<p>Blade/Shaft : 8?- 17</p>
+<p>Head : 6? 18"</p>
+<p>Total Length : 12? 26"</p>
+<p>Core Size PVC: 1/2" Ultralight .412,.505</p>
+<p>Grip 1?- 6?</p>
+<p>---</p>
+<p>Hatchet  Small</p>
+<p>Base Damage : 1</p>
+<p>Blade/Shaft : 8?- 17</p>
+<p>Head : 6? 18"</p>
+<p>Total Length : 12? 26"</p>
+<p>Core Size PVC: 1/2" Ultralight .412,.505</p>
+<p>Grip 1?- 6?</p>
+<p>---</p>
+<p>Sap  Small</p>
+<p>Base Damage : 1</p>
+<p>Blade/Shaft : 8?- 17</p>
+<p>Head : x? x?</p>
+<p>Total Length : 12? 26?</p>
+<p>Core Size PVC: 1/2" Ultralight .412,.505</p>
+<p>Grip 1?- 6?</p>
+<p>---</p>
+<p>Short Axe  Short</p>
+<p>Base Damage : 2</p>
+<p>Blade/Shaft : 18?- 24</p>
+<p>Head : 6" 18"</p>
+<p>Total Length : 27? 34"</p>
+<p>Core Size PVC: 1/2" Ultralight .412,.505</p>
+<p>Grip 1?- 14?</p>
+<p>---</p>
+<p>Short Hammer  Short</p>
+<p>Base Damage : 2</p>
+<p>Blade/Shaft : 18?- 24</p>
+<p>Head : 6? 18?</p>
+<p>Total Length : 27" 34"</p>
+<p>Core Size PVC: 1/2" Ultralight .412,.505</p>
+<p>Grip 1?- 14?</p>
+<p>---</p>
+<p>Short Mace  Short</p>
+<p>Base Damage : 2</p>
+<p>Blade/Shaft : 18?- 24</p>
+<p>Head : 6"- 18"</p>
+<p>Total Length : 27"- 34"</p>
+<p>Core Size PVC: 1/2" Ultralight .412,.505</p>
+<p>Grip 1" - 14"</p>
+<p>---</p>
+<p>Short Sword  Short</p>
+<p>Base Damage : 2</p>
+<p>Blade/Shaft : 18" - 24"</p>
+<p>Head : 6? 18"</p>
+<p>Total Length : 27"- 34"</p>
+<p>Core Size PVC: 1/2" Ultralight .412,.505</p>
+<p>Grip 1" - 14"</p>
+<p>---</p>
+<p>Long Axe  Long</p>
+<p>Base Damage : 2</p>
+<p>Blade/Shaft : 25" - 36"</p>
+<p>Head : 6" - 18"</p>
+<p>Total Length : 35" - 46"</p>
+<p>Core Size PVC: 1/2" Ultralight .412,.505</p>
+<p>Grip 1" - 14"</p>
+<p>---</p>
+<p>Long Hammer  Long</p>
+<p>Base Damage : 2</p>
+<p>Blade/Shaft : 25" - 36"</p>
+<p>Head : 6"- 18"</p>
+<p>Total Length : 35"- 46"</p>
+<p>Core Size PVC: 1/2" Ultralight .412,.505</p>
+<p>Grip 1" - 14"</p>
+<p>---</p>
+<p>Long Mace  Long</p>
+<p>Base Damage : 2</p>
+<p>Blade/Shaft : 25" - 36"</p>
+<p>Head : 6" - 18"</p>
+<p>Total Length : 35" - 46"</p>
+<p>Core Size PVC: 1/2" Ultralight .412,.505</p>
+<p>Grip 1" - 14"</p>
+<p>---</p>
+<p>Long Sword  Long</p>
+<p>Base Damage : 2</p>
+<p>Blade/Shaft : 25" - 36"</p>
+<p>Head : x"- x"</p>
+<p>Total Length : 35"- 46"</p>
+<p>Core Size PVC: 1/2" Ultralight .412,.505</p>
+<p>Grip 1" - 14"</p>
+<p>---</p>
+<p>Spear  Long</p>
+<p>Base Damage : 2</p>
+<p>Blade/Shaft : 20" - 45</p>
+<p>Head : 8"- 8"</p>
+<p>Total Length : 48"- 58"</p>
+<p>Core Size PVC: 3/4" Ultralight .505,.616</p>
+<p>Grip 1" - 30" </p>
+<p>---</p>
+<p>Polearm  Two Handed Sword</p>
+<p>Base Damage : 3</p>
+<p>Blade/Shaft : 38" - 44</p>
+<p>Head : 44"- 18"</p>
+<p>Total Length : 60"- 72"</p>
+<p>Core Size PVC: 3/4" Ultralight 0.616</p>
+<p>Grip 1?- 36?</p>
+<p>---</p>
+<p>Staff  Two Handed Sword</p>
+<p>Base Damage : 3</p>
+<p>Blade/Shaft : 24?- 32</p>
+<p>Head : 32? x"</p>
+<p>Total Length : 60? 72"</p>
+<p>Core Size PVC: 3/4" Ultralight 0.616</p>
+<p>Grip 0?- 9?</p>
+<p>---</p>
+<p>Two Handed Blunt  Two Handed Sword</p>
+<p>Base Damage : 3</p>
+<p>Blade/Shaft : 40?- 48</p>
+<p>Head : 18" 24"</p>
+<p>Total Length : 48" 62"</p>
+<p>Core Size PVC: 3/4" Ultralight 0.616</p>
+<p>Grip 1?- 36?</p>
+<p>---</p>
+<p>Two Handed Sword  Two Handed Sword</p>
+<p>Base Damage : 3</p>
+<p>Blade/Shaft : 40?- 48</p>
+<p>Head : x? x"</p>
+<p>Total Length : 50? 62"</p>
+<p>Core Size PVC: 3/4" Ultralight 0.616</p>
+<p>Grip 1?- 22?</p>

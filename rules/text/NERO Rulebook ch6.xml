@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><body>
 <p>Chapter 6: Game Play </p>
-<p>Combat</p>
+<h1>Combat</h1>
 <p>Safety is NERO's main concern. These rules are designed to give players the feel of medieval combat without the pain and suffering of the real thing.</p>
-<p>The Hold Rule</p>
+<h2>The Hold Rule</h2>
 <p>This is the single most important rule in this entire book. Read it and take it to heart.</p>
 <p>Anyone can call a hold in a fight if they see an unsafe situation happening or about to happen. "Hold!" should be yelled so that everyone in battle can hear it, otherwise, it may be followed by another flurry of swings. When a Hold is called, </p>
 <p>1. Stay exactly where you are </p>
@@ -17,7 +17,7 @@
 <p>Collecting tags or treasure is not a legitimate reason for calling a Hold. Tag bookkeeping should be done after the battle is over, not during it.</p>
 <p>Anyone who ignores a Hold called for any reason will face severe disciplinary action and possible expulsion. This is usually used for emergencies and not to be treated lightly. Stop what you are doing immediately and find out why a Hold was called, then do what you can to help. You must return to your original spot before the Lay-on is called. If you see a crowd of people kneeling down, then they are probably in a Hold. Do not approach the group until the Hold is over.</p>
 <p>If you are in the middle of a battle and everyone starts dropping to one knee, then a Hold has probably been called and you did not hear it.</p>
-<p>Counted Actions</p>
+<h2>Counted Actions</h2>
 <p>Some actions cannot actually be performed for reasons of safety or reality, but must be considered as taking some time to complete. Such actions will have a specific count, usually three, and a definite phrase to indicate what is happening.</p>
 <p>For example, to simulate a zombie rising from the ground, the NPC playing the zombie could say "I climb out of the ground one, I climb out of the ground two, I climb out of the ground three. During the time in which the player is saying this, he or she is completely vulnerable to attack and cannot use any game abilities except Dodge.</p>
 <p>Phase, Return and Resist. These abilities cause the counted action to be interrupted. The skill is used up, and the count is aborted and must be started again.</p>
@@ -26,67 +26,67 @@
 <p>For example, Cerik the vampire is turning gaseous. During the three count, he is hit with a Cure Light Wounds spell. He takes the damage from the spell but it is not enough to destroy him, so he can continue his three count. Example two: Cerik gets hit with a Destroy Undead spell. This would destroy him, so he uses his Phase skill. The use of that skill has interrupted his three count, so the Gaseous Form skill has been used up, and unless he has that skill twice, he cannot attempt it again.</p>
 <p>Before performing a counted action, NPCs will often take their places while wearing a white headband. Players who see this can have their characters experience an "erie feeling" that something is amiss. This is not an excuse to metagame as to exactly what will happen, but role-playing caution is acceptable.</p>
 <p>This is not a way to invent your own abilities. All such actions are defined by NERO. Counted Actions are not appropriate for actions you can actually perform safely and within the rules.</p>
-<p>Body Contact</p>
+<h2>Body Contact</h2>
 <p>The only contact allowed during battle is by weapon. Any other type of fighting contact such as grabbing someone, hitting, or kicking is strictly forbidden. Violation of this rule is the shortest path to disciplinary action.</p>
 <p>Pinning and Trapping Weapons</p>
 <p>Although "pinning" weapons is a mainstay of many swashbuckling movies, many of the moves used to free yourself from a weapon pinning are dangerous and as such not allowed in NERO combat. As a result, the following restrictions have been placed on "Pinning" or "Trapping" weapons:</p>
-<p>Trapping</p>
+<h2>Trapping</h2>
 <p>Any weapon shaped in such a way as to trap weapons (whether accidentally, or by design) is expressly forbidden.</p>
 <p>"trapping"occurs when one weapon is used to hold another weapon so that it becomes useless. A weapon with multiple tines for instance can be used to grab and twist the opponent's blade, thus "trapping" it.</p>
 <p>Any weapon that is reported as trapping weapons will not be allowed in game. A marshal has the right to reject any weapon for this reason.</p>
-<p>Pinning</p>
+<h2>Pinning</h2>
 <p>"Pinning" occurs when one weapon is used to apply force on an opponent's weapon, capturing the weapon by holding it against a wall or a tree or other stationery object.</p>
 <p>Pinning of weapons can only be done with another weapon, and only outdoors. Indoors, the limitations of the situation lead to an unnecessary chance of injury. If your weapon is pinned, you may pull the weapon straight back to free it. If the weapon is shaped in such a way that it is not possible to pull it out, then you're stuck - the weapon is pinned and there's nothing you can do about it. You can back up to try to free yourself and your weapon, but shoving your opponent or charging are not allowed.</p>
-<p>Charging</p>
+<h2>Charging</h2>
 <p>During NERO combat you must never come into physical contact with your opponent. It is the responsibility of all parties involved in combat to ensure that there is always a safe distance between combatants. If you are crowding your opponent so much that he or she must step back to avoid body contact with you, you are Charging. No combatant should be able to touch the torso of an opponent in combat. If you can reach out and touch the torso of an opponent, then you are too close. Any combatant who has moved too close must increase the distance to be greater than his or her arm length, though at no time may someone shove away an opponent or otherwise initiate physical   contact. In the case of extreme differences in arm length, the combatant with the shorter arm length is allowed to approach close enough to strike their opponent so long as they cannot touch the opponent's torso with their own hand.</p>
-<p>Legal Targets</p>
+<h2>Legal Targets</h2>
 <p>Legal targets include the entire body except the head, neck, throat, hands from the wrist out, and the groin. A player observed to be</p>
 <p>hitting restricted areas repeatedly is subject to disciplinary action. </p>
 <p>You may not intentionally block a hit with an illegal target.</p>
 <p>Blocked and deflected shots do not count. This is admittedly a judgment call. If the block was good, then the weapon just grazed an arm or leg and the shot does not count. If the block was weak and the swing hit with about half or more normal force then the hit should count.</p>
-<p>Unskilled Weapon Use</p>
+<h2>Unskilled Weapon Use</h2>
 <p>If you do not have the skill to use a weapon you are carrying, or if you are presently unable to use a weapon in which you are skilled, such as wielding a two handed weapon with one hand you must either immediately drop the weapon or take any damage that hits your weapon as if you had been hit.</p>
 <p>Swinging your weapon</p>
 <p>The NERO combat system is an honor system. Each player trusts that the person whom he is hitting is correctly counting his or her hits. "But I'm an evil thief." You still have to count your hits. The NERO combat system relies on all players being honest in real life even if their character is a nefarious liar. Remember, even the NPCs are there to have fun, albeit by dying in a good clean fight. </p>
 <p>NERO is a fantasy game with a fantasy combat style. The normal rules of armed combat don't apply as they are geared toward doing all the things we strive to prevent, i.e. injure your opponent. So because of this some compromises must be made in realism.</p>
-<p>Baseball Swing:</p>
+<h2>Baseball Swing</h2>
 <p>One thing you must remember: you are only trying to make contact, not hit a home run. Do not reach back, wind up, and take a huge swing at your opponent. It is usually not necessary to hit hard at all. When fighting an unarmored and unarmed opponent, an easy tap will do. You only need to apply enough pressure to make sure your opponent is aware of the attack.</p>
 <p>For example, hitting an armored opponent from behind by surprise might require more vigor than a standard tap. And if it seems that your opponent is not taking his or</p>
 <p>her hits, it might be because the hits are not being felt under all that armor. You should mention to your opponent when you think you got a hit in, and all players should call hits whenever possible.</p>
-<p>Machine Gunning</p>
+<h2>Machine Gunning</h2>
 <p>If you are swinging so fast that you cannot announce the damage fast enough to keep up with the swings, then you are "Drum Rolling" or "Machine Gunning" and your opponent should count all of that as one or maybe two hits.</p>
 <p>A good rule of thumb is to have your swing progress between 45 and 90 degrees. Most importantly swings must be controlled and must not hit too hard.</p>
-<p>Shields</p>
+<h2>Shields</h2>
 <p>Shields cannot be used as offensive weapons. Shields are strictly for defense.</p>
 <p>Shields do not protect the owner from any kind of trap other than a weapon trap, which uses a weapon blade or missile weapon to deliver its damage.</p>
-<p>Shield Bashing</p>
+<h3>Shield Bashing</h3>
 <p>Shield Bashing is the intentional use of a shield to gain physical out-of-game advantage over an opponent. Shield Bashing is a serious a violation of NERO safety rules. It is similar to Charging. The potential for injury is great. Excessive use of Shield Bashing will result in warnings and possible loss of the Shield skill. </p>
 <p>Shields cannot be used with two handed weapons. You may not wield a weapon with the hand or arm holding the shield. Also your shield arm may not have any other items or weapons attached to it. Tucking a dagger behind your shield arm would negate your ability to use the shield.</p>
-<p>Spell Grounding</p>
+<h3>Spell Grounding</h3>
 <p>Any item you throw, toss, or let go of is still considered to be in your possession until it lands and comes to a complete rest. Any attack that hit such an item before it lands and comes to rest will affect its possessor.</p>
 <p>If the attack targets the thrown/dropped item directly, such as Shatter or Destroy, the item is still affected.</p>
-<p>Bucklers</p>
+<h3>Bucklers</h3>
 <p>A "Buckler" shield (a small shield that is strapped onto the arm) must still follow all shield rules. In other words, you cannot have a buckler on your left arm and still hold anything in your left hand.</p>
-<p>Turtling</p>
+<h2>Turtling</h2>
 <p>"Turtling" or hiding behind an impenetrable shield (with little more than your head showing) is not allowed! Anyone using a shield in such a manner could be subject to warnings from the marshals and if necessary, loss of the shield skill. Shields in our game are not all that realistic, and as such you are artificially limited in what you can do with them.</p>
 <p>In real life you could overbear someone who was hiding behind a shield, but such contact is not allowed in our game. If you are short and using a maximum sized shield that prevents any legal targets from showing then you are Turtling.</p>
-<p>Delivery Methods</p>
+<h1>Delivery Methods</h1>
 <p>There are a few different ways for damage or effects to be dealt in the game. The following are methods in the game to use effects or deal/cure damage: Packet, Weapon, Ingested, Contact, Touch, Area of Effect, and Vengeance.</p>
-<p>Contact</p>
+<h2>Contact</h2>
 <p>Contacts are effects delivered instantly through touch. With contact effects you can call defenses.</p>
-<p>Ingested</p>
+<h2>Ingested</h2>
 <p>These effects must be ingested to gain the effect. Ingested effects bypass protectives like Shield Magic and Poison Shield.</p>
-<p>Packet</p>
+<h2>Packet</h2>
 <p>All packet-delivered attacks are effective on contact with the target or any of the target's immediate possessions, such as a shield or cloak. Arrows are not considered packet attacks.</p>
 <p>Packet attacks include spells, gas globes, and certain monster abilities. Note that unlike the weapon rules, a packet attack will count if it hits "Non-legal targets" such as the head or groin but that's not to say you should aim at these illegal targets.</p>
-<p>Touch</p>
+<h2>Touch</h2>
 <p>An effect delivered though touch does not effect any defenses, instead the target of the touch, can choose to "accept" the effect or state "I do not accept" at the time the effect is delivered.</p>
-<p>"Touch-Casting" on page 46 for more information.</p>
-<p>Vengeance</p>
+<p>"Touch-Casting" on page XX for more information.</p>
+<h3>Vengeance</h3>
 <p>A vengeance is an effect that has a unique delivery method. It automatically targets whoever deals a killing blow to the owner of the Vengeance for more information on vengeance see the NERO Formal Magic Rules.</p>
-<p>Weapon Blow</p>
+<h3>Weapon Blow</h3>
 <p>Weapon blows are dealt with nero safe hand held boffers, and thrown boffers. Arrows are also considered weapon blows even though they are phys-repped by yellow packets.</p>
-<p>Effects Types</p>
+<h2>Effects Types</h2>
 <p>In addition to delivery methods, there are also effect types which change what protects you from the damage or effect. Once you take the effect, it is the same no matter what the effect type. </p>
 <p>Arcane: Effects delivered this way are created from raw magical energies. They are not blocked by regular spell defenses. The same casting rules apply as spells except you do not need the ability to speak.</p>
 <p>Magic: Magic Deliverance is a non verbal way of casting spells. The same casting rules apply as spells except you do not need the ability to speak.</p>
@@ -94,148 +94,146 @@
 <p>Physical: Physical attacks represent an actual physical force such as a glob of ooze to form a Physical Web, a big rock to form a Physical Stone Bolt, or a burst of wind to cause a Physical Repel. </p>
 <p>Poison: Effects delivered as poison are stopped by Poison shields. They represent a monster with poisoned claws, fangs, or spittle.</p>
 <p>Spell: Effects delivered as spell are blocked by a Shield Magic.</p>
-<p></p>
-<p>Calling Weapon Damage</p>
+<h2>Calling Weapon Damage</h2>
 <p>When you swing a weapon in NERO, you must call out a verbal that indicates the attributes of the attack. The verbal will have up to four parts, with the first two always present and the latter two only used in special circumstances. The parts are, in order,</p>
 <p>(damage amount) (weapon type) (damage type) (effect).</p>
 <p>When in combat with the same opponent, there is no need to continue calling your damage beyond the first or second swing. Weapon verbals are out of game and can thus be made while under the effects of a Silence or Gypsy Curse, however anyone who hears them will know what it is.</p>
-<p>Damage Amount</p>
+<h3>Damage Amount</h3>
 <p>The damage you are dealing with each swing as a numerical value.</p>
-<p>Weapon Type</p>
+<h3>Weapon Type</h3>
 <p>A Weapon's Type determines the nature of the weapon. There are four weapon types: Normal, Silver, Magic, and Massive.</p>
-<p>Damage Type</p>
+<h3>Damage Type</h3>
 <p>Some creatures may take an increased or decreased amount of damage from certain damage types. The valid Damage Types are variable and up to the local plot team or as</p>
 <p>granted by effects within these rules so long as the call does not duplicate a game effect. </p>
 <p>The most common damage types are the thirteen core elements (fire, water, order, chaos, etc.) and the Effect Types listed above. The only Effect Types which may not be used as a Damage Type are "Magic" or "Spell". To Specify a Carrier Attack as a magical effect you must use the "Arcane" Effect Type.</p>
-<p></p>
-<p>Calling Hits</p>
+<h3>Calling Hits</h3>
 <p>Calling hits against yourself is strongly encouraged by role-playing being struck. Acknowledging which hits you are accepting and which ones you feel you blocked will help the flow of combat.</p>
-<p>Throwing/Tossing Items</p>
+<h3>Throwing/Tossing Items</h3>
 <p>You cannot throw any weapon, shield, etc., that is not NERO approved for throwing. Basically, if a local safety marshal has approved the weapon to be thrown (thrown weapons, javelins, etc.), you can throw it, otherwise you cannot.</p>
 <p>In addition, you cannot use the "Toss and grab" method on any item to avoid the effects of a spell. If you toss an item and grab it before it lands on the ground, the item is still under your control, and is still considered in your possession.</p>
 <p>For the purposes of spells that target the item itself (such as Shatter), an item is still considered under a player's control until it comes to a complete rest on the ground out of the player's grasp</p>
-<p>Special Abilities </p>
+<h3>Special Abilities </h3>
 <p>There are many creatures in the NERO world that have special abilities or powers. The effects of these are described below.</p>
 <p>Some monsters are represented by multiple NPCs. These are either organisms that can divide into many segments, or are larger than man sized. In some cases, these creatures will be affected differently by battle magic spells. The spell may only affect one of the creature's segments. A spell such as Pin may only affect the segment it hits, allowing the creature to pivot around the affected part. Once again, the monster should have documentation describing any special allowances it may have. </p>
 <p>Occasionally, a monster's abilities may change from event to event or even during an event! This can be the result of many things, from mutation to strange magics to a new tribe moving into the area.</p>
-<p>Packet Attacks</p>
+<h3>Packet Attacks</h3>
 <p>Packet attacks follow the same basic rules as any other skill involving a packet, the user must say out loud in a clear voice the "Verbal" then they may throw the packet. All attacks that duplicate a spell or effect that contains a number must include that number at the end of the verbal (ex. A monster hurls a Physical Cause Wounds packet, the correct verbal before throwing is "Physical Cause Wounds 10".</p>
 <p>These attacks represent monsters' abilities to generate ranged attacks such as poisonous spittle, breathing fire, or charming you with their will. There are only 5 different delivery types for packet attacks; Arcane, Elemental, Magic, Physical, and Poison. The delivery type determines what delivery type specific spell defense(s) can be used. The effect itself would be cured by whatever is listed in its description, by any other effect whose description allows it to cure the effect (ex. Awaken's description specifically allows it to cure Sleep), or from the list below. Limitations on curing in the description still also apply if the description says the effect can only be cured by specific effects or cannot be cured by specific effects. None of these attacks may use orange or yellow packets as orange packets as orange are used to physically represent gas globes and yellow packets are arrows. A creature must have use of its arms and may not be holding any other in-game object in its hand in order to use a packet attack, even if it is touch-casting the ability. This includes claws, which must be retracted in order to use any packet-based ability.</p>
-<p>Base Claws/Body Weaponry</p>
+<h3>Base Claws/Body Weaponry</h3>
 <p>Monsters with this ability can strike with large claws or fists. The phys-reps will always be covered in red duct or kite tape; however, you cannot tell the difference between claws and real weapons unless you can actually see the red tape. The claws cannot be Fumbled, Shattered, or Destroyed. The NPC cannot call a Hold to pull out claws. Consider the claws retractable. </p>
-<p>Control Undead</p>
+<h3>Control Undead</h3>
 <p>Some undead creatures can control other less powerful undead in the area, making them do whatever they want. This effect is stronger than Calm/Calm Animal Charm / Charm Animal, Shun/Shun Animal, or Fear. The most recent Control Undead, Vampire Charm or Enslavement effect will take precedent if there is a conflict See Table 5-6.</p>
-<p>Curse of Transformation</p>
+<h3>Curse of Transformation</h3>
 <p>Some monsters (notably werewolves and vampires) have the ability to curse their victims so that they will turn into versions of themselves under appropriate  circumstances. Werewolves can turn their victims into werewolves who will then change on the next full moon (and every full moon thereafter). Vampires can turn their victims into lesser vampires. These curses cannot be resisted as per spirit targeting formal rules. The character is usually not dead when they are afflicted with a Curse of Transformation. Once Cursed, when the appropriate circumstances are met,the character will transform into a lesser form of the master who Cursed the character. All life and death rules are still in effect - the player will enter her death count when she is reduced to -1 body  points, she will have 5 minutes to receive a Life spell,  the Life spell may or may not cure the "Curse". You will always receive a card that states the additional abilities of your curse that you will then carry with your character card at all times.</p>
-<p>Drain</p>
+<h3>Drain</h3>
 <p>This attack causes the victim to be unable to use any in game skills and may not run. Drain will last for 5 minutes or it can be removed with a Life or Remove Drain spell. This effect is not affected by a Dispel Magic.</p>
-<p>Drain Life</p>
+<h3>Drain Life</h3>
 <p>This attack is the same as Drain but lasts until a Life spell is given or the victim resurrects. It cannot be removed by a Dispel Magic or Remove Drain.</p>
-<p>Fear</p>
+<h3>Fear</h3>
 <p>Some creatures have the ability to invoke a magical fear. The racial ability Resist Charm can be used as a defense against this ability and an Awaken or Remove Fear spell will free someone who is Feared. The feared victim must attempt to break Line of Sight and cannot attack the creature they fear in any way. If breaking Line of Sight is impossible, the victim will stay as far from the attacker as possible. Even if Line of Sight is broken the effect lasts for five minutes or until the creature is dead.</p>
 <p>For example, Drina gets Feared by a vampire. She runs screaming around a corner and ten seconds later (as per the "Line of Sight" rule), she feels calm again. If the vampire then appears around the corner, Drina must run screaming again, as the five minutes are not up. The victim cannot cast an Aw aken spell on himself or herself until out of Line of Sight.</p>
 <p>Infection</p>
 <p>Some creatures have the ability to infect helpless victims with material that will turn the person into a version of the creature. Unlike a werewolf or vampire curse, this is only a physical transformation of the victim's body. Players will be told of specific triggers if necessary. Victims will lose all memory of their former lives, and the player must follow the commands they are given by the Monster Master until the character is slain. </p>
 <p>The character may then be killed and then given a Life spell and be cured of the infection. If the player dies the spirit may then proceed to the Healers' Guild to be resurrected as normal. Infection is done just as a Killing Blow, with a count of "I infect you 1, I infect you 2, I infect you 3."</p>
-<p>Lesser</p>
+<h3>Lesser</h3>
 <p>Some NPCs will be able to deliver Lesser versions of attacks. The word Lesser is used as the first word in a verbal and indicates that the following effect will only last 10 seconds if it normally has a duration greater than instant. If the duration is instant then Lesser is meaningless. For example, a ghoul calls "Lesser Poison Paralyze" and throws a packet at Steve. Steve, lacking any defense to prevent it taking effect, is now Paralyzed for 10 seconds.</p>
-<p>Massive</p>
+<h3>Massive</h3>
 <p>Some creatures can use the Massive weapon type. Massive damage cannot be blocked by weapons or shields. If a blow delivering this type of damage strikes a weapon or shield, the bearer of the item struck takes the damage delivered, as well as any carrier effects (when appropriate, i.e. once Body Points are damaged). The skills Parry and Dodge will work as normal against this type of damage, as will all applicable protective spells such as Magic Armor or Displacement.</p>
-<p>Physical Strike</p>
+<h3>Physical Strike</h3>
 <p>This ability functions as Spell Strike but is stopped by a Magic Armor or Parry instead of a Shield Magic or Reflect Magic. The proper verbal is "Physical Strike (effect)"</p>
-<p>Spell Strike</p>
+<h3>Spell Strike</h3>
 <p>A few powerful magical creatures have the ability to generate spell effects in their weapons. The spell effects are just as the spell, except that they are delivered with a weapon strike instead of a spell packet. As with any weapon strike, all weapon safety rules must be followed. The spells are still subject to spell defenses as a normal spell. This ability does not require Body contact. When this power is used, the player will call "Spell Strike (effect)" and will deliver a NERO-safe hit. The skill can still be used even when silenced, but the effect is recognizable to all who hear it. </p>
 <p>The spell portion of a Spellstrike is only stopped by defenses that would stop the attack if it were delivered by packet. Therefore, Magic Arm or, although it stops "The next single strike by a NERO Safe weapon", does not stop a Spellstrike. Since a Spellstrike is weapon-delivered, the user must have the in-game skill to wield the weapon in order to use the Spellstrike.</p>
 <p>For example, if the user is under a game effect that prohibits the use of in-game skills, then they cannot use a Spellstrike. Also, if the Spellstrike is delivered by a non-ranged weapon, then the attack will not affect creatures under the effects of a Sanctuary and Desecrate, as appropriate.</p>
-<p>Superhuman Strength</p>
+<h3>Superhuman Strength</h3>
 <p>Any creature with superhuman strength can do more damage with any particular weapon than can a normal human. This bonus damage is split in half if the creature is fighting with any weapon other than a two handed one. Note, that creatures with Superhuman Strength can gain only limited advantage from either an Endow or a Delayed Endow. (See the spell descriptions for more details).</p>
-<p>Vampire Charm</p>
+<h3>Vampire Charm</h3>
 <p>Vampires can charm a person if they can maintain eye contact for 10 seconds. More powerful Vampires can deliver packet attack Vampire Charms as well. This power does not require body contact. If you are charmed by a Vampire, then you must obey all commands the Vampire gives you. These commands are absolute and are much more powerful than a Charm spell; if a vampire tells you to commit suicide, you will do so unquestioningly. Spell defenses appropriate to the delivery type can be used to stop a packet-delivered Vampire Charm. The racial skill Resist Charm will protect the character from this effect. The effect lasts five minutes. This effect is stronger than Calm/ Calm Animal Charm /Charm Animal, Shun/ Shun Animal, or Fear. The most recent Control Undead, Vampire Charm or Enslavement effect will take precedent if there is a conflict. See Table 5-6 on page 64.</p>
 <p>Special Defenses and Vulnerabilities</p>
 <p>Some creatures have special defenses that protect the creature from attacks, or weaknesses that make it more vulnerable to certain effects.</p>
-<p>Damage Cap (X)</p>
+<h3>Damage Cap (X)</h3>
 <p>This ability allows the creature to limit the amount of damage taken from weapon attacks that would otherwise affect it. The call for a Damage Cap is "Cap X" where "X" is the amount of damage the creature is taking. Damage Cap never affects spells, slays or assassinates.</p>
 <p>Double from (damage type or effect)</p>
 <p>Some creatures take double damage from certain effects or spells and it is always written on their character documentation. All damage of that type that would normally affect the creature is doubled by the recipient when they are hit.</p>
-<p>(effect) Shield</p>
+<h3>(effect) Shield</h3>
 <p>This monster ability acts just like Resist except that it must be used on the first applicable attack that would affect the creature. This means they can only be used after Spell Defenses like Shield Magic and Reflect Magic.</p>
-<p>Focus</p>
+<h3>Focus</h3>
 <p>Creatures with this ability are not subject to Disruption for one or more of their attacks.</p>
-<p>Gaseous Form</p>
+<h3>Gaseous Form</h3>
 <p>Creatures that are forced into gaseous form when they are killed drop their possessions. Creatures which voluntarily turn into gaseous form while still "live" can bring their possessions with them. Creatures that turn gaseous will drop any other creatures being carried at that time. While they are in this form they are immune to all attacks except Ar cane Solidify. They may only move at a normal walking rate. They cannot speak or move objects. Creatures in Gaseous Form still appear as they normally do. Voluntarily Turning gaseous or solidifying is a three counted action.</p>
-<p>Harmed by (damage type or effect)</p>
+<h3>Harmed by (damage type or effect)</h3>
 <p>Some creatures take damage when struck by certain spells or effects.</p>
-<p>Heal by (damage type or effect)</p>
+<h3>Heal by (damage type or effect)</h3>
 <p>Some creatures are healed by certain types of spells or effects (For example, air, earth, fire, water, or all of them). Creatures with this ability cannot be healed by weapon attacks (except Spellstrikes), but can be healed by packet attacks. Creatures healed by a damage type or effect are immune to weapon attacks (except Spellstrikes) using those types or effects.</p>
-<p>Immune to (damage type or effect)</p>
+<h3>Immune to (damage type or effect)</h3>
 <p>Many creatures have immunities to some spells or effects. Creatures must call "No effect" when using this ability.</p>
-<p>Immune to (type) Weapons</p>
+<h3>Immune to (type) Weapons</h3>
 <p>Several types of creatures require special weapons (for example, silver or magic) to damage them. Normal weapons will do no damage, but the special weapon will do full damage. These creatures will tell you "No effect" if your damage is not affecting them.</p>
-<p>Mind Abilities</p>
+<h3>Mind Abilities</h3>
 <p>Some creatures can perform mental abilities such as "Mind melds." These abilities are all completely role-playing in nature. Generally speaking, a creature with this ability can instill or remove roleplaying insanity or otherwise "Cure" mental damage. This ability can not be used to tell if another player is telling the truth or to counteract forget-it poisons or otherwise get around any NERO rule. A player always has the right to refuse to role-play any of these skills and can at any time decide to "Break off" the contact or be cured. In order to use this role-playing skill, the players must be touching each other and be concentrating completely by either staring in each other's eyes or having their eyes closed. You cannot perform any in-game skills while role-playing this.</p>
-<p>Natural Armor</p>
+<h3>Natural Armor</h3>
 <p>Some monsters have a skin that acts like armor. It can be refit in sixty seconds. It cannot be Shattered or Destroyed in any way nor can it be salvaged after the creature is killed.</p>
-<p>No Metabolism</p>
+<h3>No Metabolism</h3>
 <p>Some monsters lack a metabolism. The standard definition is as follows: Imm une to Death, Disease, Drain, Drain Life, First Aid, Life, Nausea, Paralyze, Poisons, Sleep, Taint Blood, Waylay, Wither Limb.</p>
-<p>Non-Corporeal Form</p>
+<h3>Non-Corporeal Form</h3>
 <p>Some monsters are non-corporeal, having no physical form but made mainly of magic or energy. While they are in this form they are immune to normal weapons, and are immune to Pin, Bind, Web, and Confine.</p>
-<p>Phase</p>
+<h3>Phase</h3>
 <p>Some creatures can become non-corporeal for an instant, avoiding an attack as the Dodge skill, and announcing "Phase." Unlike Dodge, Phase can be used even if the creature is completely immobilized, such as if in a Confine or Paralyze.</p>
-<p>Reduced Damage</p>
+<h3>Reduced Damage</h3>
 <p>Some monsters take less than normal damage from certain attacks. The NPC must call "Reduced" when using this ability.</p>
-<p>Regeneration</p>
+<h3>Regeneration</h3>
 <p>Some creatures can regenerate Body Points by spending time to regenerate, much like refitting armor. The time it takes to regenerate is most often one minute but this may vary from creature to creature. If the regeneration time is interrupted by a weapon blow or a spell that affects the creature, the process must begin again. If the process is completed, then the creature regains all lost Body Points. Some creature can do this at zero body, in this case nothing interrupts the regeneration except a killing blow that affects the creature.</p>
-<p>Renew (option)</p>
+<h3>Renew (option)</h3>
 <p>This ability allows a creature to renew one or more abilities or skills that have limited uses by fulfilling some condition defined by that creature's abilities. The most common condition is to take a minute to reset the ability in a manner similar to resetting armor, where any interruption prevents the abilities from returning. Some creatures may also renew skills when entering an area or even if they use another power like Revive. The options for this ability are a "single skill" chosen by the target, a "specific skill" chosen by the creature using the Renew ability, or "all" skills and abilities.</p>
-<p>Resist (effect)</p>
+<h3>Resist (effect)</h3>
 <p>This ability is similar to an Immunity except that it is for a limited number of times per day. Unlike an (effect) Shield, the creature with this skill can decide when to use it.</p>
-<p>Return (type)</p>
+<h3>Return (type)</h3>
 <p>A creature with the ability to Return (type) will cause a specific type of effect directed at it to be returned to its point of origin. It functions like the Resist skill in that the creature can choose when to use a Return. Returned effects are instantly restored to the character's skill set, although the character will not be able to use the skill again until they Meditate for 1 minute. Return can only be used on daily or times ever effects such as spells, Critical Slays, Assassinates, etc. Return can be used against stored spells/effects from formal magic items and/or production items, and in this case the Return acts like a Resist in that it prevents the effect and the charge is lost. The creature card will specify the types of Return available to that creature in a similar way to Resists.</p>
-<p>Revive</p>
+<h3>Revive</h3>
 <p>A creature with this skill can rise back up after five minutes of semi-death. Instead of dissipating and going to resurrect, the creature rises with full Body Points. The creature will either have a limited number of uses of this ability or there will be some special method of preventing the creature from reviving; for example, some creatures can be prevented from using this skill by applying a Killing Blow with a silver blade.</p>
-<p>Rift /Gate</p>
+<h3>Rift or Gate</h3>
 <p>Some creatures can open a rift to another plane to allow for entrance or exit or open a Gate to another place. This is a three counted action unless a fully represented gate prop is used. Some of these creatures also have the power to abduct others and force them to rift or gate out against their will. Rip from Pin/ Bind/Web/Confine</p>
 <p>Some creatures can rip free from binding spells. This is a three-count action with the phrase "I rip free one, I rip free two, I rip free three." While the creature is doing the three-count, it is vulnerable to attack and a Killing Blow begun prior to the Ripping. While ripping free, the creature may not use any skill requiring movement, such as Dodge. A creature with the skill Rip from Pin/Bind/Web/Confine can only use this skill upon itself, never upon others. </p>
-<p>Solidify</p>
+<h3>Solidify</h3>
 <p>This skill forces a gaseous form to become immediately solid. It is packet delivered with the verbal delivery type Solidify."Note that the creature may still turn gaseous again."</p>
-<p>Suicide Ability</p>
+<h3>Suicide Ability</h3>
 <p>Some creatures have the ability to destroy themselves if they are captured. This ability may be the equivalent of a Killing Blow or it may cause the creature to instantly dissipate and seek resurrection. </p>
-<p>Threshold</p>
+<h3>Threshold</h3>
 <p>This allows the creature to take only a single point of damage from any blow equal to or below its Threshold. The creature must call "threshold" whenever a blow is landed. However, don't expect to hear the call for every blow. Once you've acknowledged the call, the creature is under no obligation to continuously call "threshold" unless new players join the fight. These fights sometimes last a long time, so common courtesy on both sides is highly recommended. If you can exceed the limit of the hide, then the creature will take full damage from your blow. A Killing Blow can always go through a Threshold. Spell Defenses and suits of armor are affected by all blows, even if the creature wouldn't normally be affected.</p>
-<p>So You Want to Be a Thief?</p>
-<p>Stealing an Item</p>
+<h1>So You Want to Be a Thief?</h1>
+<h3>Stealing an Item</h3>
 <p>"Stealing an item" refers only to the in-game stealing of in-game items. You must be very careful when attempting to steal anything in-game. You are never allowed to harm or destroy real property (using in-game spells to Shatter or Destroy is fine because you aren't harming or damaging real property) in order to steal something. You may not pickpocket characters in NERO.</p>
 <p>There are special rules for each type of in-game item and you are required to know them. If you are caught stealing something incorrectly, then you are cheating, and ignorance of the rules is no excuse!</p>
-<p>Game Money, Magic Items, and Jewelry</p>
+<h3>Game Money, Magic Items, and Jewelry</h3>
 <p>You are always allowed to take whatever game money you can find in-game. When taking jewelry or an item, always check to make sure there is an item tag with the item phys-rep. If there is an item tag, then the item tag is now yours. You must temporarily take the item's phys-rep, which should be promptly given to a rules marshal as soon as you are in a safe area, (before the end of the event), so the phys-rep can be returned to its owner. If there is no tag, the item does not represent an in-game item and cannot be taken because it is merely a costume piece.</p>
 <p>If you have a magic weapon or item phys-rep stolen, you must immediately find one of the Rules Marshals for that chapter and turn over the magic item tag. You can find a Rules Marshal out-of-game.</p>
 <p>If you have a piece of jewelry or other game item that you wish to make into a stealable item, you must obtain an item tag for that item. You can do this at logistics at any NERO event. The item will be evaluated to figure out its monetary value. You will then be required to pay the in-game amount that the item is worth.</p>
-<p>Weapons</p>
+<h3>Weapons</h3>
 <p>You must actually take the weapon you are stealing.</p>
 <p>Once you have stolen a weapon, you should then head immediately to the designated area for stolen weapons (usually the NPC camp or an NPC Weaponsmith shop). You cannot actually keep that particular weapon phys-rep since it is the personal property of the player from whom you stole it, but the marshal in charge will give you the tag from that weapon which you can then attach to your own weapon phys-rep or attempt to sell in-game.</p>
 <p>If your weapon is stolen, you should head to the designated area. That is why it is so important for you to write your name on your weapon! (In some chapters, you do not steal the weapon, but only the tag.)</p>
 <p>Some monsters will have weapons that are stealable. However, for logistical reasons, these monsters will simply hand you a tag instead of the actual weapon.</p>
-<p>Other in-game items</p>
+<h3>Other in-game items</h3>
 <p>NERO often provides props such as maps, notes, books, and other informational items. If you find these in a module or on an NPC, you should ask a Rules Marshal to see if you need to return the props to NPC camp or if you can keep them. If you steal them from another player, you should have a Rules Marshal contact the person you stole them from out-of-game and make sure that they were stealable.</p>
-<p>Searching a Person</p>
+<h3>Searching a Person</h3>
 <p>If you waylay, kill, or control a person or monster through a spell, you may search that being. Simply say "I search you." All game items must be turned over at that point. Note that it is impossible to completely hide something on your body. If you are searched, you cannot claim that something was "Really, really hidden." If you are searched, you also have the option of saying, "Go ahead and describe your search and I will tell you the results step by step." This is not only to help you to hide items, but it also takes up the time that the search should take. You must really have the item hidden where you say it is. In other words, you can't say I'm pretending to have a secret compartment in my shoe, and he didn't search for secret compartments!</p>
 <p>If someone steals your magic item, do not give them the tag that describes your magic item. Immediately go to a Rules Marshal and turn over the tag. It is up to the person who stole the item to find out what the item is and how it works. This applies to magical weapons as well.</p>
-<p>Searching a Cabin</p>
+<h3>Searching a Cabin</h3>
 <p>In order to search a cabin, you MUST have a marshal present. We cannot overemphasize this point! If you enter a cabin without a marshal, you are really breaking and entering and NERO may be forced to bring legal action against you!</p>
 <p>The marshal does not have to actually be right next to you (after all, how can you sneak with someone else tagging along beside?), but the marshal must be within sight somewhere.</p>
 <p>Once you have managed to successfully open the door, the marshal will then check the marshal's notes that will be affixed to the inside of the door. These notes will list any magic spells that may be active in, or on, the cabin, which character cast these spells upon the cabin, who is invested in any Circles of Power that are in the cabin, who is invested in the cabin's Ward (if one is present), and any other things that the local chapter requested be placed on the Marshal's Notes. </p>
 <p>You must actually search the cabin yourself. The marshal will not simply look at the notes and go and retrieve items for you. Do not take any items marked "Personal" or any items stored under a bed. In-game items may not be put under a bed. When you leave the cabin, you must show all items you have taken to the marshal. Only game items can be stolen! The marshal will return non-stealable items. The marshal is also there to make sure that you properly disarm any traps that may be on the door or window. Destroying property such as window screens or door hinges is not allowed. </p>
 <p>Remember you can search anywhere in a cabin except for bags marked personal or behind dividing curtains or under beds. However, not everything in gameplay is stealable, so always talk to a Rules Marshal if you have any questions or concerns.</p>
-<p>Securing your Cabin</p>
+<h3>Securing your Cabin</h3>
 <p>Tyrra can be an unsafe place, so it's always a wise idea to guard your valuables. There may be places in-game where you can buy or rent a lock for your cabin. Some of these places will also install it for you for a small fee. Of course, these locks can be picked by a good thief, but at least it will slow the rascal down. You can also buy or make traps for your cabin. Each trap must be accompanied by the trap's item tag see Traps and Locks below.</p>
 <p>It is a smart idea to take your personal items and put them under your bed. Any items placed under the bed are considered to be out of play, so don't cheat and put game items there. If you like, put a dividing curtain up in your cabin, and place all the beds and your personal items behind it. Put any game items in front of the divider. </p>
 <p>If you are sleeping in-game during the night, make sure that your bed is in front of any dividing curtain or barrier you have put up. </p>
 <p>Any special security precautions you take must be entered on the marshal notes sheet in the holder on your cabin door. Make any appropriate entries there, with the spell labels and/or trap cards necessary. That way anyone marshaling a thief through your cabin can dole out any damage that the villain may take. If no precautions have been entered on the marshal notes, then there is nothing protecting the cabin in-game!</p>
 <p>Anyone who does not reside in a particular cabin caught reading the marshal notes will be subject to disciplinary action. These notes are for marshals only, and only when marshaling a thief into the cabin.</p>
-<p>Traps and Locks</p>
+<h3>Traps and Locks</h3>
 <p>In order to make a trap, you must have the skill Create Traps. This skill works on the Production system as described in the chapter "Physical Representations" on page 105. All trap designs must be checked and approved by a Rules Marshal from the chapter where the trap will be used. The trap must be approved at every event, regardless of whether it has been approved in the past. All traps must make a noise or flash a light or otherwise be constructed so that it is obvious when the trap has been set off. A trigger must be physically attached or connected to a trap.</p>
 <p>Traps are never considered "NERO-safe" weapons and cannot be thrown or used in battle as a weapon. Doors may only be secured through in-game means such as in-game locks or a Ward spell. The use of out-of-game locks, barricading a door closed with other objects or attempting to hold it closed against an intruder is not permitted.</p>
-<p>Trap Types</p>
+<h3>Trap Types</h3>
 <p>There are 7 different types of traps each with different building parameters.</p>
 <p>Weapon Traps</p>
 <p>A weapon trap is a trap which contains a weapon on a spring mounted mechanism. These traps cost 1 Production Level per 2 points of damage with a minimum damage of 2 and a maximum damage of 40. Weapon traps may be reset by anyone with the Disarm /Arm Tr aps skill without paying the cost to rebuild them. These traps must be mounted to a door, wall or inside a large chest to be effective. If not mounted to a heavy, stable object of this sort, they cannot be set with enough force to be effective. You cannot attach these traps to a body.</p>
@@ -243,58 +241,58 @@
 <p>Massive Mechanical Traps</p>
 <p>Massive mechanical traps represent collapsing ceilings, rockfalls, giant scythes, and other such contraptions. They are completely immovable. They have a minimum size of 3" by 3" by 3" Anyone struck by any part of the trap when it goes off takes the full damage of the trap. Massive mechanical traps must be rebuilt after they are set off; they cannot be reset. </p>
 <p>These cost 1 Production Level per 4 points of damage with a minimum damage of 16 and a maximum damage of 80. Massive mechanical traps are usually  represented with pillows, plastic trash bags filled with newspapers, and other soft items. Whoever is touched by the phys-rep will take the complete damage from the trap.</p>
-<p>Fire / Acid Traps</p>
+<h3>Fire / Acid Traps</h3>
 <p>A fire or acid trap represents a trap which sprays a burning or caustic liquid in a 5 foot radius measured from the center of the trap phys-rep. Anyone inside this radius when it detonates takes the full damage of the trap plus the additional effects listed below. </p>
 <p>In addition to a trigger and detonating mechanism, there must also be a physical representation for the oil / acid "Container." The required size of this container is 216 cubic inches. The detonation mechanism must be attached to the container. The radius effect is measured out from this container. </p>
 <p>The damage from fire traps can be negated by Cloak vs Fire or Guardian of the Four (Fire.)</p>
 <p>These cost 1 Production Level per 3 points of damage with a minimum damage of 12 and a maximum damage of 60. This trap is destroyed when it detonates.</p>
-<p>Explosive Traps</p>
+<h3>Explosive Traps</h3>
 <p>Explosive traps are very similar to Fire and Acid Traps except that the container represents the explosive. These traps have a 5" radius. All destructible items in the area of effect are destroyed. Armor will provide its numerical protection against the damage caused by the blast and then be destroyed. Sealed containers will not protect items from explosions. All in-game items except un-shatterable items will be destroyed by an explosive trap. Items within an indestructible sealed container will not be affected if they are in the radius of an explosive trap, unless the trap is inside that container or the container is open. Defenses such as Cloak or Bane versus Shatter or Destroy have no effect against an explosive trap.</p>
 <p>Explosive traps, like Fire/Acid traps and Gas traps, must have a "Container." This container is always 216 cubic inches, regardless of the trap's effects.</p>
 <p>To make these traps costs 1 Production Level per 2 points of damage with a minimum damage of 30, and a maximum damage of 60. This trap is destroyed when it detonates.</p>
-<p>Gas Traps</p>
+<h3>Gas Traps</h3>
 <p>The Production Level cost for creating a gas trap is equal to the highest Production Level gas the trap is designed to hold. The trap builder must also include a dose of the gas poison in the trap itself.</p>
 <p>A gas trap is rated at the Production Level used to make it. To make a gas trap with a Paralyze gas within will cost 9 Production Levels for the trap (and 9 production Levels for the gas, which must be supplied separately).</p>
 <p>Remember that the trap must contain both a trap card and the gas poison tag. Gas which is contained in a Gas trap cannot be removed, reused, or "salvaged," under any circumstances.</p>
 <p>Multiple Cause Damage gases can be placed into a single gas trap up to the limit of the level of the trap but no other gases can be "stacked" to increase their damage potential or mix their effects. </p>
 <p>These traps have a 5" radius. Anyone inside this area when the trap goes off will be affected as if they had been struck by a gas poison of the same name. The effects of any gas trap, even traps with multiple gases, will be blocked by a Poison Shield or the skill Resist Poison. If two or more traps have the same trigger, then they are all set off together and one Poison Shield or Resist Poison will block them all.</p>
 <p>Gas traps, like Fire/Acid traps and Explosive traps, must have a "Container." This container is always 216 cubic inches, regardless of the trap's effects. Gas trap mechanisms that go off are reusable though the gas inside will have to be replaced.</p>
-<p>Alarms and Noise Makers</p>
+<h3>Alarms and Noise Makers</h3>
 <p>These are traps that do no damage but set off loud alarms and other noises. They cost 1 Production Level each to make. Alarms and Noise Makers do not have a minimum container size. They are as large, or as small, as they must be to make a noise. When this type of trap is tripped, it must make its own noise. Although it takes a person with Disarm Tr aps to disarm an Alarm or Noise Maker trap, once it has been set off anyone can attempt to muffle the trap's sound by throwing blankets over the trap, or by using some other method.</p>
-<p>Trap Mechanics</p>
-<p>Setting Traps</p>
+<h2>Trap Mechanics</h2>
+<h3>Setting Traps</h3>
 <p>Setting a trap takes the real setting time of the trigger followed by 60 seconds of counting while both hands remain on the trapped item. Both weapon traps and massive mechanical traps must be mounted on large or heavy objects to be properly set.</p>
-<p>Backfire</p>
+<h3>Backfire</h3>
 <p>If either hand is removed from the trap, or the person setting the trap is struck by a physical blow or packet attack, then the trap backfires on the setter. The backfire will hit only the person setting the trap; there is no radius effect.</p>
 <p>Setting off a Trap</p>
 <p>Traps can be set off in 3 ways: by being moved, being destroyed, or their trigger being sprung. The trap must be armed to be set off.</p>
-<p>Being Moved</p>
+<h3>Being Moved</h3>
 <p>After a trap has been set, it cannot be moved more than five feet without automatically setting it off, even if the person moving it has a Disarm Tr aps skill. In the case of weapon traps, they will automatically hit the person carrying the trap.</p>
-<p>Destroyed</p>
+<h3>Destroyed</h3>
 <p>An armed trap will be set off (then destroyed) if affected by a Shatter or Destroy effect. This includes traps and other game effects that duplicate Shatter and Destroy. Traps that are not armed will not be set off in this manner (although they will still be destroyed).</p>
-<p>Trap Triggers</p>
+<h3>Trap Triggers</h3>
 <p>All traps must have a real, physical trigger. Setting off the trap must produce a noise or light that is detectable by an impartial observer. It must always be possible to see how to disarm a trap, although it may require light and a small mirror. To be used, a trap must be approved by a Marshal.</p>
 <p>A simple trap trigger can be made out of a clothespin (the kind with a spring in it), two tacks, some string or thread, two pieces of wire and a small piece of cardboard. Attach the wire to the tacks just below the heads of the tacks.</p>
 <p>Now pull the clothespin apart and place the parts outside-down on a table. Push a tack through each half of the clothespin so that the two tack heads will contact each other when the clothespin closes. Reassemble the clothespin.</p>
 <p>Punch a small hole in the piece of cardboard and tie one end of the piece of thread to the cardboard. The cardboard can now be placed between the jaws of the clothespin to keep the tacks from conducting electricity.</p>
 <p>The other end of the string can be tied across a doorway or path so that when someone hits it with their leg it will pull out the cardboard and make a connection. This trigger can then be used to set off a buzzer or other device to indicate the trap has gone off. You can also deliberately set off a trap like a claymore mine if you use a pull cord.</p>
-<p>Dealing Damage</p>
+<h3>Dealing Damage</h3>
 <p>Traps that have an area effect have their effect area measured from the center of the trap phys-rep. If there is a large, trapped box with a 10 foot tripwire attached and a player sets the trap off at the end of that tripwire they are not affected by the trap since the phys-rep (the center of the trap radius) would be 10 feet away. It is not measured from the tripwire/snapper/etc, but from the rep for the trap itself. This will allow you to have a 50ft pull cord on a trap box in the field and use it like a claymore mine since the effect goes off from the box/rep/trigger and not from the cord.</p>
-<p>Disarming Traps</p>
+<h3>Disarming Traps</h3>
 <p>Traps may be disarmed by any method that does not permanently destroy the trap. For example, popping a battery clip off would represent disarming a spring. </p>
 <p>Permanent damage is defined as any damage that cannot be fixed by the marshal within ten minutes with no tools.</p>
 <p>If the trap was successfully disarmed, the gas trap may of course be reset, but in no case can the gas be taken from the trap.</p>
-<p>Containers</p>
+<h3>Containers</h3>
 <p>Fire / Acid, Explosive and Gas traps must have a container representing their explosive or liquid contents. This container must be at least 216 cubic inches in size.</p>
-<p>Picking Locks</p>
+<h3>Picking Locks</h3>
 <p>Anyone wishing to put a lock on a box, chest, or door must use one of the NERO approved locks (for sale by various characters). These locks are simple and can be fairly easily picked using thieves tools. Generally speaking, if you wish to place a lock on your door and you can pick the lock yourself in the presence of a Marshal, then you will be allowed to use that lock. Combination locks are not allowed to be used by players (although they may be found in modules).</p>
-<p>Marshals</p>
+<h3>Marshals</h3>
 <p>Marshals are the referees and guides of NERO. They will be with you in modules and available for you at other times. If you have a question about rules or if you need someone to witness an action in order to make it official, you must see the appropriate marshal.</p>
 <p>If there is a dispute over a rules interpretation by one or more players, then a Marshal should be consulted. If you are on a module, then your Module Marshal will be the arbiter. If you are on a full NERO event, then you will need to find a Full Marshal or one of the marshals on duty for the event.</p>
 <p>If you wish to appeal a Marshal's ruling, you can speak to an Adjudicator. When dealing with a NERO Marshal or other representative, you can help yourself and your case considerably by staying calm. Present your case and once the ruling is made, play along with it. Your marshal may be aware of something you have missed, or may be making a decision based on what was intended by the rule. If you feel the marshal's judgment was incorrect, you can bring the ruling to adjudication later. Don't dwell on it in the meantime or it will spoil your enjoyment of the rest of the game. You should also try not to nitpick details of a situation. You should understand and follow the intent of the rules. Play fair and be considerate of everyone's enjoyment of the game. You will be taken more seriously and be respected by those who have to deal with you. Arguing the specific wording of a rule or taking advantage of a misprint can look like manipulation of the rules for your benefit and will not win you any friends in the long run.</p>
 <p>Marshals are appointed positions only. Generally, marshals remain in game play as their characters but are able to step in and make judgments if needed. Anyone impersonating a marshal will be subject to immediate disciplinary action, as are marshals who attempt to marshal themselves or their friends in game play. </p>
 <p>Marshals are never allowed to marshal themselves through an encounter, and a marshal should never marshal his or her adventuring group if at all possible. If a marshal appears biased, it ruins the credibility of the marshal to give fair judgments in future decisions.</p>
-<p>Cheating and Metagaming</p>
+<h3>Cheating and Metagaming</h3>
 <p>Players who are caught cheating or metagaming raise the risk of being suspended or kicked out of NERO. Remember, you do not have a right to play our game.</p>
 <p>If you know of someone cheating, you should immediately report this to a marshal.</p>
 <p>Metagaming is harder to call. It is difficult to keep from bragging about your adventures to people out-of-game. And sometimes people do not remember if they got information in-game or out-of-game. If you do not want people to act of information they have discovered out-of-game, the best solution is to never tell any secrets!</p>
@@ -302,9 +300,9 @@
 <p>This leads to a tender subject: Gossip about cheaters and metagamers. It is common for players to gripe about other players and call them cheaters or metagamers but the fact is that NERO is very proud of the fact that we have so few. Gossip can ruin our game. We all need to watch what we say about other players. Hearsay and innuendo have no place in NERO. If you think that someone is cheating or metagaming, don't whine and complain to your friends about it- report it to a marshal! And if a marshal comes to you and asks about a possible cheating situation, please cooperate and don't take it personally.</p>
 <p>If someone makes an accusation against someone else ask, "How do you know that?" If they have firsthand knowledge, ask "Why haven't you reported that to a Marshal?" If they don't have firsthand knowledge, refuse to listen to them.</p>
 <p>Only by working together and trusting each other enough to give the benefit of the doubt can we keep this game running fairly for everyone. Your cooperation is crucial to make sure we have a fair, fun game.</p>
-<p>Build Cheating</p>
+<h3>Build Cheating</h3>
 <p>Any player that knowingly reports a false amount of build or levels, or abuses the award system will be suspended from all NERO Chapters for a minimum of six months. In addition, their character Example "Joseph is 10th level with 106 build. He goes to an event in another chapter, tells the check in staff he doesn't have his card, but is 12th level with 123 build. After he is caught, he will be suspended for a minimum of 6 months, and his new amount of build will be 53."</p>
-<p>NERO Sportsmanship Policy</p>
+<h3>NERO Sportsmanship Policy</h3>
 <p>All NERO Participants</p>
 <p>Follow the spirit of the rules, as well as the letter of the rules.</p>
 <p>Play fairly and honestly.</p>
@@ -321,7 +319,7 @@
 <p>Abide by the expectations that apply to all NERO participants, Staff, Marshals, etc....</p>
 <p>Respond and communicate in a timely, respectful, and articulate manner.</p>
 <p>Uphold the authority of your staff, and do not overrule them without careful investigation.</p>
-<p>Code of Conduct</p>
+<h3>Code of Conduct</h3>
 <p>NERO expects its members to act responsibly as adults, to respect other players, and abide by the NERO rules and policies.</p>
 <p>NERO will not tolerate dangerous non-game physical violence, damage or theft of non-game items or property, vandalism, display of pornographic materials, open and gross lewdness, or any actions by an individual or group which demonstrates a wanton lack of respect for the safety or security of the people, property or environment at any NERO site.</p>
 <p>NERO does not condone any form of out-of-game bigotry or discrimination against any group or individuals because of their out of game afflictions, including race, gender, age, religion, ethnic background, ideology, sexual orientation, physical appearance, handicap or disability. Or any other part of a player's background. </p>
@@ -331,21 +329,21 @@
 <p>If you feel a Marshal's ruling was incorrect or unfair, you may bring this to the attention of an Adjudicator.</p>
 <p>Do not nitpick on the details of the situation - understand and follow the intent of the rules. If you play fair and be considerate of everyone else's enjoyment of the game, your comments will be taken more seriously and will be better respected. </p>
 <p>NERO will remove any member who NERO suspects is intoxicated or high.</p>
-<p>Content</p>
+<h3>Content</h3>
 <p>References to explicit sexual behavior or concepts, particularly violent  ones, are not allowed.</p>
 <p>Safety</p>
 <p>Alcohol</p>
 <p>Alcohol is prohibited from NERO events no matter what your age. In all cases, all laws regarding Alcohol must be adhered to. Our adventures are not an excuse for getting drunk out in the woods with your friends. Anyone caught with any controlled substance will be subject to severe disciplinary action. Take this point very seriously and report anyone you see with  alcohol or drugs.</p>
 <p>Medic</p>
 <p>If your character or another character is injured In-Game, you can shout for a "Healer". However, if you or someone else is injured in real life, shout for a Medic and call a Hold. Do not call for a Medic unless it is a Out of Game emergency. If you hear the call for a Medic, drop to one knee and remain still and silent. Only the persons who have been identified as a Medic by Chapter Staff should respond to the call of Medic.</p>
-<p>Real Weapons</p>
+<h3>Real Weapons</h3>
 <p>If you bring a real weapon into a NERO game, you will be told to put it away. Real weapons can never be carried on your person. (Swiss army knives, small thieves' tool knives and other such devices are acceptable.) Daggers may be carried for eating/utility purposes, but they must be "Peace bonded" (tied in a sheath) when not at the table.</p>
-<p>Page Status</p>
+<h3>Page Status</h3>
 <p>A Page is a person who, for one reason or another, cannot enter combat. Some chapters will allow children to play NERO under Page status, and adults with a medical condition can also choose to play NERO as a Page. If you are planning on bringing your children to an event, it is best to contact the Chapter first for details. In most chapters, any child under 14 years old must be a Page. A Page can be a member of any race and any class, but cannot use combat skills or throw packet delivered attacks.</p>
 <p>A Page should never be struck with a weapon or claw. In order to attack a page, you can point your weapon or packet at the Page and state "I kill you, page!" or " down you."(bleeding out) or any number of other actions. If there is someone within 5 feet of the Page, they can choose to defend the page and block your attack. To do so, they must state "I defend you" and role-play accordingly. A person cannot defend a page if they do not have a weapon, shield, or other ability to do so. All pages must wear an Orange headband to signify they are under Page status.</p>
-<p>Smoking</p>
+<h3>Smoking</h3>
 <p>Smoking is only permitted in designated smoking areas. Generally, you are discouraged from smoking in public areas because of consideration for the other players, for fire safety regulations, and because it takes away from the medieval feel of the games. </p>
-<p>Torches and Flames</p>
+<h3>Torches and Flames</h3>
 <p>The rules on torches and flames vary based on the campsite's rules. </p>
 <p>Generally speaking, torches are not allowed. No open flames are allowed in cabins, including candles (although candle lanterns and oil lanterns are fine). In any event, flames are never to be left unattended.</p>
 <p>In order to use a flashlight for in game purposes, you must have someone cast an Illumination spell. The flashlight must be diffused by either taping a cloth over the end or using a red filter and must be pointed towards the ground or up in the air. A flashlight can never be pointed near a person's face. If at all possible, please avoid using flashlights as they distract from the medieval feel of the game.</p>

@@ -13,21 +13,21 @@
 <p>Level Elixer : 2</p>
 <p>Level Gas : </p>
 <p>Duration: Instant</p>
-<p>Antidotes are used to cure lasting effects, such as from Sleep elixirs and not from instantaneous effects such as damage. Antidote (Contact) cures any contact substance. Antidote (Ingested) cures any ingested elixir. Antidote (Gas) cures any gas substance. It does not remove any monster carrier attacks. Gas Antidote will remove Monster Packet attacks only if the attack included the word ?as? Enslavement needs a specific antidote.</p>
+<p>Antidotes are used to cure lasting effects, such as from Sleep elixirs and not from instantaneous effects such as damage. Antidote (Contact) cures any contact substance. Antidote (Ingested) cures any ingested elixir. Antidote (Gas) cures any gas substance. It does not remove any monster carrier attacks. Gas Antidote will remove Monster Packet attacks only if the attack included the word "Gas" Enslavement needs a specific antidote.</p>
 <p>---</p>
 <p>Antidote (Gas)</p>
 <p>Level Contact : </p>
 <p>Level Elixer : 4</p>
 <p>Level Gas : </p>
 <p>Duration: Instant</p>
-<p>Antidotes are used to cure lasting effects, such as from Sleep elixirs and not from instantaneous effects such as damage. Antidote (Contact) cures any contact substance. Antidote (Ingested) cures any ingested elixir. Antidote (Gas) cures any gas substance. It does not remove any monster carrier attacks. Gas Antidote will remove Monster Packet attacks only if the attack included the word ?as? Enslavement needs a specific antidote.</p>
+<p>Antidotes are used to cure lasting effects, such as from Sleep elixirs and not from instantaneous effects such as damage. Antidote (Contact) cures any contact substance. Antidote (Ingested) cures any ingested elixir. Antidote (Gas) cures any gas substance. It does not remove any monster carrier attacks. Gas Antidote will remove Monster Packet attacks only if the attack included the word "Gas" Enslavement needs a specific antidote.</p>
 <p>---</p>
 <p>Antidote (Ingested)</p>
 <p>Level Contact : </p>
 <p>Level Elixer : 5</p>
 <p>Level Gas : </p>
 <p>Duration: Instant</p>
-<p>Antidotes are used to cure lasting effects, such as from Sleep elixirs and not from instantaneous effects such as damage. Antidote (Contact) cures any contact substance. Antidote (Ingested) cures any ingested elixir. Antidote (Gas) cures any gas substance. It does not remove any monster carrier attacks. Gas Antidote will remove Monster Packet attacks only if the attack included the word ?as? Enslavement needs a specific antidote.</p>
+<p>Antidotes are used to cure lasting effects, such as from Sleep elixirs and not from instantaneous effects such as damage. Antidote (Contact) cures any contact substance. Antidote (Ingested) cures any ingested elixir. Antidote (Gas) cures any gas substance. It does not remove any monster carrier attacks. Gas Antidote will remove Monster Packet attacks only if the attack included the word "Gas" Enslavement needs a specific antidote.</p>
 <p>---</p>
 <p>Berserk</p>
 <p>Level Contact : </p>
@@ -185,7 +185,7 @@
 <p>Level Elixer : </p>
 <p>Level Gas : </p>
 <p>Duration: 1 Hour</p>
-<p>It can also be used to pin people to the ground if enough is available. Note that this paste will have no effect in combat as it takes three seconds to set; thus you cannot put it on your shield or sword to ?apture?enemy weapons. It can be counteracted by an Alchemical Solvent, an Oil of Slipperiness , or a Release spell.</p>
+<p>It can also be used to pin people to the ground if enough is available. Note that this paste will have no effect in combat as it takes three seconds to set; thus you cannot put it on your shield or sword to "capture" enemy weapons. It can be counteracted by an Alchemical Solvent, an Oil of Slipperiness , or a Release spell.</p>
 <p></p>
 <p>---</p>
 <p>Poison Shield</p>

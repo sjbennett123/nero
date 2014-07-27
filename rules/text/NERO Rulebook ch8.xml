@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><body>
-<h1>Chapter 8: Atmosphere</h1>
 <h2>Role-Playing</h2>
 <p>Role-playing requires you to create a new persona.</p>
 <p>You should try to think, feel, move and act like your character. (Keep in mind as you read this that you are the player; the persona you adopt is the character.)</p>
@@ -10,7 +9,7 @@
 <p>Please remember to be considerate of the other players. Abusing other characters could be going too far, even if it makes sense for your character concept. Remember that even if an action is "in character" you, as the player, bear full responsibility for the effects it has on the other players. After all, you created your character in the first place. Be sure to read "Code of Conduct" on page 100 for more guidelines.</p>
 <p>This concept also applies to such things as character insanity (temporary or otherwise) as an excuse for crimes. If you feel your character would snap for some reason, feel free to do so; however, you must be willing to have your character face the consequences or be able to fast-talk your way out of the situation. </p>
 <p>The atmosphere of our game depends on the players staying in character. This means talking and thinking only as your character would. Avoid discussions of modern day events and topics. If your character cannot read, then do not read anything. If your character has never seen the local nobility, then you shouldn't recognize them. Do what your character would do. With everyone doing their best to support the atmosphere, you will be surprised at how easy it becomes to stay in your character persona with just a bit of initial effort.</p>
-<p>Darkvision and Low-Light vision</p>
+<h2>Darkvision and Low-Light vision</h2>
 <p>There is no such thing as Darkvision or Low-Light vision in the NERO world. Elves, Dwarves, Hoblings and the like do not get any special visual ability.</p>
 <p>Whatever you the player can see is what your character can see.</p>
 <h2>Languages</h2>
@@ -104,48 +103,48 @@
 <p>The hierarchy of a medieval society is based upon title and rank within that society. The higher your rank, the more authority and respect you command.</p>
 <p>In the NERO world, noble title is sometimes inherited and sometimes earned. Depending on circumstance, then, either the King or Queen could be the power. The husband or wife of the noble in power either has a decision making power equal to or just under that of the noble themselves (providing that person grants that power), or has little to do with governing at all, being just a figurehead.</p>
 <h2>Titles and Rankings</h2>
-<p>King/Queen</p>
+<h3>King/Queen</h3>
 <p>Theirs is the final word on all matters and is literally the law. Once the Royal mind is made up, it goes without question. They would be addressed as Your Majesty or Your Royal Majesty.</p>
-<p>Crown Prince/Crown Princess</p>
+<h3>Crown Prince/Crown Princess</h3>
 <p>This is the eldest child of the monarch who will inherit the crown upon the death of the parent or whoever has been designated as heir apparent to the throne by the sovereign ruler. They are addressed as Your Royal Highness.</p>
-<p>Prince/Princess</p>
+<h3>Prince/Princess</h3>
 <p>These are the children of the King and Queen who are not designated heirs (usually all but the first born). They are addressed as Your Highness.</p>
-<p>Duke/Duchess</p>
+<h3>Duke/Duchess</h3>
 <p>This is a title of nobility inherited or granted by the King that earns respect and sovereignty over a portion of the King's lands (which can then be divided among Counts and/or Barons). They are addressed as Your Grace. </p>
-<p>Count/Countess</p>
+<h3>Count/Countess</h3>
 <p>This title is inherited or granted by a Duke or King and earns respect from Barons, Knights, guards, Lords and commoners. They have sovereignty over a portion of the King's lands which can then be divided among Barons. They are addressed as My Lord Count or My Lady Countess.</p>
-<p>Viscount/Viscountess</p>
+<h3>Viscount/Viscountess</h3>
 <p>This title is usually a title of honor given to a nobleperson. It does not carry any lands. They are addressed as Your Excellency.</p>
-<p>Baron/Baroness</p>
+<h3>Baron/Baroness</h3>
 <p>This title is inherited or granted by a Count, Duke, or King. It commands respect from commoners, guards, Knights, Lords, and has sovereignty over a portion of a Count's (or Duke's) lands. They are addressed as My Lord Baron or My Lady Baroness, or in some places as Good Sir Baron or Good Dame Baroness.</p>
-<h4>Seneschal</h4>
+<h3>Seneschal</h3>
 <p>This is a title of someone who functions as the secretary to the holder of a noble title. He or she may perform justice or execute decisions in the name of their liege. In the absence of the liege, they have the power of the liege. They are granted estates, though often they reside on a portion of their liege's estate. They are addressed as My Lord Seneschal or My Lady Seneschal.</p>
-<h4>Knight</h4>
+<h3>Knight</h3>
 <p>A Knight is a person granted the right to bear arms and distribute justice in the name of a liege or to carry the standard of their liege, and to own an estate. A Knight commands respect from other Knights, Lords/Ladies, guards, and commoners. Some knights are Paladins. These are the knights whose dedication to the Code of Chivalry is so great that their liege has given them this honorary title. Paladins have no special powers except when conducting trials of nobility. They are addressed as Good Sir Knight or Good Dame Knight.</p>
-<p>Lord/Lady</p>
+<h3>Lord/Lady</h3>
 <p>A Lord or Lady is usually the spouse or child of a noble. They deserve respect as a noble but cannot perform any noble duties nor own an estate. In some places, a Lord or Lady is equivalent to a knight and can hold all of the same powers as a knight. They are addressed as Your Lordship or Your Ladyship.</p>
-<p>Magistrate</p>
+<h3>Magistrate</h3>
 <p>Magistrates are granted the right to try commoners and dispense justice in the lands of their liege. They do not have the power to make laws nor do they have any power outside of their liege's lands. Their decisions can be overruled by any noble of their liege's land, but such an act is usually extreme in nature and is subject to review. Although probably not noble, they are treated with respect due a noble and are addressed as My Lord Magistrate or My Lady Magistrate.</p>
-<p>Guildmaster/Guildmistress</p>
+<h3>Guildmaster/Guildmistress</h3>
 <p>Though not a noble title, the head of a chartered Healers' Guild or Mages' Guild is often accorded the same respect as a knight. They are addressed as Guildmaster or Guildmistress.</p>
-<p>Squire</p>
+<h3>Squire</h3>
 <p>A squire is a knight in training. Although they hold no power and are not considered nobility, they are treated with respect by guards and commoners. They are addressed as Squire.</p>
-<p>Sheriff</p>
+<h3>Sheriff</h3>
 <p>The Sheriff is appointed by the Magistrate and is responsible for appointing and maintaining the Town Guard. They are addressed as M'Lord M'Lady, or Sheriff.</p>
-<p>Guard</p>
+<h3>Guard</h3>
 <p>A guard is a person granted the right to uphold the laws and distribute settlements to minor disputes within the lands and laws of their immediate liege only. They would command respect from commoners. They are addressed as M'Lord, M'Lady, or Guard. </p>
-<p>Merchant</p>
+<h3>Merchant</h3>
 <p>A merchant is an upper class or wealthy commoner who may or may not be respected or paid attention to by the lower ranking nobles and Knights, but who would command the respect of the other commoners. Often they can be minor land owners if this is granted by their liege. They are addressed as Good Merchant, or M'Lord or M'Lady. </p>
-<p>Common Townsfolk</p>
+<h3>Common Townsfolk</h3>
 <p>These are people who live within a town, anyone from a tradesman to a clerk. They do not own land. They are addressed as Goodman or Goodwife.</p>
-<p>Special Cases</p>
-<p>Adventurer</p>
+<h2>Special Cases</h2>
+<h3>Adventurer</h3>
 <p>While not quite the same status as common townsfolk, adventurers are nonetheless also not of rank equal to nobility. They are rarely land owners. They owe respect to anyone with the rank of guard or higher.</p>
-<p>Mage</p>
+<h3>Mage</h3>
 <p>The mage is generally considered the same as a merchant (although his or her apprentice may not be), but unless they are appointed to or inherit a title, they are not nobility. If not in anyone's service, yet a member of a recognized guild, they should be accorded the same respect as a merchant. If acting on their own, they should be treated properly as any other commoner would be for the situation. For example, if this is reputed to be a powerful independent mage, "Begone wretch" may not be entirely appropriate.</p>
-<p>Healer</p>
+<h3>Healer</h3>
 <p>Healers are treated like mages with appropriate respect due a member of the healing profession (in case you ever expect to be injured).</p>
-<p>Thieves</p>
+<h3>Thieves</h3>
 <p>Thieves are commoners unless someone has granted them a title of some sort. (We're sure the thieves out there will find plenty of ways to exact revenge for this obviously gross injustice. . .)</p>
 <h2>Noble Powers</h2>
 <p>Nobility carries with it power and responsibility. Beside showing respect to those who are above you in the feudal hierarchy, you must also obey them. Commoners owe respect to nobles because nobles protect them from marauding monsters, ensure that there is a flowing economy, strengthen the land's ties with the throne, and generally maintain a status quo which keeps the citizenry a few steps away</p>

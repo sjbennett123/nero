@@ -12,7 +12,7 @@
 <p>Do not look around you or talk to people about anything not connected with the Hold. You can use this time to update your tags and remove any spells that you have cast. You can also pick up spell packets from the ground or from your pouch as long as you return to your original spot before the game is resumed.</p>
 <p>This is not a time to study someone and see if they are an NPC or a PC, nor is it a chance to look behind you and see if anyone is sneaking up on you. Please play fair and try not to gather information while the Hold is being sorted out. When the reason the Hold was called is resolved, then the person calling the hold should call a Lay-on. First, insure that everyone is ready to resume play, then call "3. . .2. . .1. . .Lay-on!"</p>
 <p>Hold can also be called for excessive zeal on the part of an opponent. The infraction should be reported to a marshal. Repeated complaints will get a player removed from combat. </p>
-<p>Hold can also be called if anyone's eyeglasses are knocked off.</p>
+<p>A Hold can also be called if anyone's eyeglasses are knocked off.</p>
 <p>You cannot call a Hold to collect spell packets even though they are out of-game. You may pick up packets during a Hold that has been called for another reason.</p>
 <p>Collecting tags or treasure is not a legitimate reason for calling a Hold. Tag bookkeeping should be done after the battle is over, not during it.</p>
 <p>Anyone who ignores a Hold called for any reason will face severe disciplinary action and possible expulsion. This is usually used for emergencies and not to be treated lightly. Stop what you are doing immediately and find out why a Hold was called, then do what you can to help. You must return to your original spot before the Lay-on is called. If you see a crowd of people kneeling down, then they are probably in a Hold. Do not approach the group until the Hold is over.</p>
@@ -28,7 +28,7 @@
 <p>This is not a way to invent your own abilities. All such actions are defined by NERO. Counted Actions are not appropriate for actions you can actually perform safely and within the rules.</p>
 <h2>Body Contact</h2>
 <p>The only contact allowed during battle is by weapon. Any other type of fighting contact such as grabbing someone, hitting, or kicking is strictly forbidden. Violation of this rule is the shortest path to disciplinary action.</p>
-<p>Pinning and Trapping Weapons</p>
+<h1>Pinning and Trapping Weapons</h1>
 <p>Although "pinning" weapons is a mainstay of many swashbuckling movies, many of the moves used to free yourself from a weapon pinning are dangerous and as such not allowed in NERO combat. As a result, the following restrictions have been placed on "Pinning" or "Trapping" weapons:</p>
 <h2>Trapping</h2>
 <p>Any weapon shaped in such a way as to trap weapons (whether accidentally, or by design) is expressly forbidden.</p>
@@ -132,7 +132,7 @@
 <h3>Fear</h3>
 <p>Some creatures have the ability to invoke a magical fear. The racial ability Resist Charm can be used as a defense against this ability and an Awaken or Remove Fear spell will free someone who is Feared. The feared victim must attempt to break Line of Sight and cannot attack the creature they fear in any way. If breaking Line of Sight is impossible, the victim will stay as far from the attacker as possible. Even if Line of Sight is broken the effect lasts for five minutes or until the creature is dead.</p>
 <p>For example, Drina gets Feared by a vampire. She runs screaming around a corner and ten seconds later (as per the "Line of Sight" rule), she feels calm again. If the vampire then appears around the corner, Drina must run screaming again, as the five minutes are not up. The victim cannot cast an Aw aken spell on himself or herself until out of Line of Sight.</p>
-<p>Infection</p>
+<h3>Infection</h3>
 <p>Some creatures have the ability to infect helpless victims with material that will turn the person into a version of the creature. Unlike a werewolf or vampire curse, this is only a physical transformation of the victim's body. Players will be told of specific triggers if necessary. Victims will lose all memory of their former lives, and the player must follow the commands they are given by the Monster Master until the character is slain. </p>
 <p>The character may then be killed and then given a Life spell and be cured of the infection. If the player dies the spirit may then proceed to the Healers' Guild to be resurrected as normal. Infection is done just as a Killing Blow, with a count of "I infect you 1, I infect you 2, I infect you 3."</p>
 <h3>Lesser</h3>
@@ -153,7 +153,7 @@
 <p>Some creatures have special defenses that protect the creature from attacks, or weaknesses that make it more vulnerable to certain effects.</p>
 <h3>Damage Cap (X)</h3>
 <p>This ability allows the creature to limit the amount of damage taken from weapon attacks that would otherwise affect it. The call for a Damage Cap is "Cap X" where "X" is the amount of damage the creature is taking. Damage Cap never affects spells, slays or assassinates.</p>
-<p>Double from (damage type or effect)</p>
+<h3>Double from (damage type or effect)</h3>
 <p>Some creatures take double damage from certain effects or spells and it is always written on their character documentation. All damage of that type that would normally affect the creature is doubled by the recipient when they are hit.</p>
 <h3>(effect) Shield</h3>
 <p>This monster ability acts just like Resist except that it must be used on the first applicable attack that would affect the creature. This means they can only be used after Spell Defenses like Shield Magic and Reflect Magic.</p>

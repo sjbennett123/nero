@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><body>
-<p>Chapter 7 Adventuring Gear</p>
-<p>Physical Rerepresentation</p>
+<h2>Physical Rerepresentation</h2>
 <p>If you acquire any potions, scrolls, poisons, or alchemical substances during your adventures, then they should have appropriate Tags attached. If you create your own through the Production system, then you must supply a physical representation for the item, and the tag must be attached. This physical representation can be stolen, at which point the thief will take the tag and the item.</p>
 <p>A scroll or potion that does not have a tag attached cannot be used. If the tag is lost, stolen or destroyed, the item is not usable. The tag by itself is not the item. If someone hands you an out-of-game tag and says "Here, drink this!" you should reply "Drink what?" since nothing is being shown to your character in-game. This rule exists because after all, these things take up room and add weight. You can't carry around 100 potions as easily as you could 100 tags.</p>
 <p>If your character finds or is given a magic weapon, you are sometimes given a physical representation for it (You should return it to the NERO Chapter you found it in when its magic expires). You cannot alter the weapon in any way except to repair it when needed. If the phys-rep wears out, then another must be built that looks just like the original. Magic items cannot ever be modified and must always look the same. This has the advantage of making it easy to spot your stolen sword if you should ever see it again. See "So you want to be a thief?" on page XX.</p>
@@ -29,7 +28,7 @@
 <p>Leather: Leather is any material, natural or synthetic, that looks like leather.</p>
 <p>Chain Mail: Chain Mail is made of material of interlocking links whose holes are small enough not to easily catch a finger.</p>
 <p>Plate: Is armor made of rigid material that does not easily deform, or of material that accurately recreates the look of plate, either medieval or fantasy. Plate is made up or large pieces of metal or metal looking material.</p>
-<p>Refitting Physical Armor</p>
+<h3>Refitting Physical Armor</h3>
 <p>When a suit of armor takes damage it can be refitted to its full value. Refitting in this way can only be done by the armor? wearer, and requires that the person spend an uninterrupted minute during which he can use no other game skills, cannot walk around, or be struck in any way. You may choose to interrupt yourself at any time. During the refitting the character will adjust (i.e. tighten straps, reposition plates) his armor so that it offers the best protection possible. If the character is struck by any packet or weapon, the refit is interrupted for no effect and must be begun again.</p>
 <p>The smithing special ability Rapid refit and the spell Refit Armor can also refit physical armor.</p>
 <h1>Weapons</h1>
@@ -66,45 +65,45 @@
 <p>There are a number of weapons that fit within a medieval fantasy setting that are not mentioned here. NERO allows creativity in developing new weapons but all must be approved before use. Experimental weapon types must conform to the basic standards of safety. You should check with the marshals before and during construction so that you do not end up wasting time and materials on a weapon that will not be allowed in the game, even so it still may not pass in all NERO chapters. </p>
 <h4>Weapon Parts</h4>
 <p>Below is a list of terms that will be useful to know when constructing a weapon. These terms detail sections of the weapon and what they are used for.</p>
-<p>Thrusting Tip</p>
+<h3>Thrusting Tip</h3>
 <p>A thrusting tip consists of at least two inches of open cell foam padding beyond the end of the pipe insulation. If the foam tip is too small, opponents could get hurt with a stiff thrust. If the tip is too large, it could easily break off or fold over, making it useless. All thrusting tips do count towards the weapon's overall length. The tip must collapse about 50% of its length when pressure is applied. The tip should also be the width of the weapon, and should not easily fit in an eye socket. Weapons with two possible striking ends, such as a staff, should have thrusting tips on both ends. For weapons with heads, the thrusting tip may be incorporated into the head design.</p>
-<p>Blade/Shaft</p>
+<h3>Blade/Shaft</h3>
 <p>This is the section of the weapon that is above the grip of the weapon. Blade/Shaft lengths of weapons can be determined by measuring from the end of the grip to the end of the thrusting tip. The Blade/Shaft area must be continuous 5/8" closed cell foam.</p>
 <h5>Head</h5>
 <p>Some weapons, such as a polearm, hammer, or spear, have an additional element(s) added to the weapon. The head(s) extend outwards from the shaft, must be a minimum of 6 inches in length along the shaft, must be made of open cell foam, and must be at least 1 inch thick or thicker. Each head can be a maximum of 2 cubic feet. The head must be positioned near the top of the weapon. </p>
-<p>Crossguard</p>
+<h3>Crossguard</h3>
 <p>A crossguard is used in certain types of weapon and is a blocking surface that is perpendicular to the weapon. This blocking surface cannot have any kind of core inside of it, and can only be constructed of foam, and is a maximum length of 18" across.</p>
-<p>Grip</p>
+<h3>Grip</h3>
 <p>This section of the weapon is the location where the weapon is held. With the exception of the special cases listed above, this section of the weapon does not need to be padded. The length of</p>
 <p>the grip is the length of the weapon from the bottom of the blade/Shaft to the inside of the pommel see figure 7-1.</p>
-<p>Pommel</p>
+<h3>Pommel</h3>
 <p>The pommel is used to protect the butt end of a weapon; it is located at the end of the grip. The pommel should have closed cell foam that extends an inch past the end of the core and is then capped by a piece of closed cell foam.</p>
-<p>Weapon Specific Specs</p>
+<h2>Weapon Specific Specs</h2>
 <p>Certain weapons types may have additional requirements, which can be found below.</p>
-<p>Bow</p>
+<h3>Bow</h3>
 <p>The NERO Bow (referred to hereafter as Bow) must be curved and formed in the shape of a bow. Overall length in a straight line from tip to tip must be between 34 and 58 inches. Thrusting tips must be on both ends.</p>
-<p>Crossbow</p>
+<h3>Crossbow</h3>
 <p>The NERO Crossbow (referred to hereafter as Bow) must be a T-shape, with a stock length of 12 to 24 inches. The cross piece must be at least half the stock length and may not exceed 24 inches. Thrusting tips must be on all ends.</p>
-<p>Arrows/Bolts</p>
+<h3>Arrows/Bolts</h3>
 <p>These are represented by yellow packets. Yellow packets are considered in-game items until they are fired and cannot be held in the same hand as another game item while either item is in use.</p>
 <p>Arrows are always stoppable by Shields and weapons.</p>
 <p>Quiver: An archer needs a Quiver in which they must carry their shots. There are 30 shots (arrows, bolts, etc.) in each quiver. Each time the character shoots his missile weapon whether he hits or the character shoots his missile weapon whether he hits or misses his target, a single shot is lost from his quiver.</p>
 <p>Arrows and other missiles (bolts, etc.) are not recoverable items. Thrown Weapons such as small thrown weapons and javelins are recoverable.</p>
 <p>Each quiver physical representation must be able to hold at least 30 yellow packets and, look like a real quiver. Each quiver can hold no more than 30 yellow packets, and a character cannot have  tags for more than 30 yellow packets per quiver rep on his person. The archer may carry as many quivers as he wants, as long as he has a physical representation for each.</p>
-<p>Daggers/One Handed Swords/Two Handed Swords</p>
+<h3>Daggers/One Handed Swords/Two Handed Swords</h3>
 <p>Daggers, one handed swords, and two handed swords all follow the same basic construction guidelines. Each sword-type weapon has a blade, crossguard and pommel, and a grip area. There may be no gaps in foam between the top of the grip and the thrusting tip at the end of the blade.</p>
 <p>In the case of swords without a perpendicular-style crossguard, such as katana, the blade area may extend from the top of the grip to the thrusting tip.</p>
-<p>Maces/Axes/Hammers (Bludgeon/Hatchet/Sap)</p>
+<h3>Maces/Axes/Hammers (Bludgeon/Hatchet/Sap)</h3>
 <p>There are five main parts to all maces, axes and hammers: the pommel, grip, shaft, head and thrusting tip. With the exception of the head that must be crafted of open cell foam, all styles are the same basic design. Weapons that do not have areas of 1" thick open cell foam, which have pointed edges, or areas that "catch" other weapons may be deemed unacceptable by any marshal. Axes may have a crossguard incorporated into the design. A Bludgeon is a small mace, a Hatchet is a small Axe, and a Sap is a small hammer.</p>
-<p>Polearms/Spears</p>
+<h3>Polearms/Spears</h3>
 <p>There are five main parts to all polearms and spears: the pommel,grip, shaft, head and thrusting tip. The thrusting tip is often incorporated into the head of polearms in order to reduce the tendency for it to shear off on a swing, and the thrusting tip for a spear should be incorporated into the head of the spear. Spears may only be used for thrusting. Spears and polearms may both have a crossguard incorporated into the design. </p>
-<p>Staves</p>
+<h3>Staves</h3>
 <p>A staff is very simple to make, with whole of the core covered by foam, or you may have two hand holds not covered by foam. A staff must have thrusting tips on both ends. The middle 6" of the staff must be padded with a minimum of 1/2" thick pipe insulation.</p>
-<p>Thrown Weapons</p>
+<h3>Thrown Weapons</h3>
 <p>Thrown rocks, throwing stars, thrown daggers, javelins and other thrown weapons may not contain a core of any sort. Rocks must be made of a 6" x 6" or larger piece of open cell foam, and can be covered with duct tape, kite tape or fabric. Throwing stars, daggers or axes may be made of closed cell foam with no core, and should be cut into the appropriate shape, with tips not less than 2" wide. All thrown weapons must be a minimum of 6" long and may be a maximum of 18": long. </p>
 <p>A javelin must be made of 3 feet of closed cell pipe foam with thrusting tips at both ends. A javelin may not include a core of any sort.</p>
 <p>Thrown weapons may not be used in melee combat, they must be thrown. Since there is a wide range of shapes and sizes that can be used, approval is based on a case by case basis by the weapons marshal.</p>
-<p>Weapon Safety Guidelines</p>
+<h2>Weapon Safety Guidelines</h2>
 <p>Please see the NERO International Website www.nerolarp.com for the most updated information regarding weapon safety rules. There are several basic rules regarding weapon construction in NERO and they are as follows:</p>
 <p>All weapons must all within the minimum and maximum length, grip and blade requirements for their weapon type.</p>
 <p>All weapons must be approved by a NERO safety marshal before they can be used in play.</p>
@@ -114,22 +113,22 @@
 <p>All tips must be rendered safe with tape/cloth and padding. In a melee, it is possible to accidentally hit someone with the pommel or cross guard, so these parts must be protected as well.</p>
 <p>All blade areas or areas of the weapon that may come in contact with another player must be protected with at least 5/8 inch weapons such as axes, hammers, maces, etc.</p>
 <p>All weapons must be fairly rigid so as not to act as a whip when swung quickly. Under most circumstances, a weapon tip should not bend more than 6 inches from true when moderate force is applied to the tip and the grip is held level. Conversely, all weapons must also have some give to them when contact is made.</p>
-<p>Construction Materials</p>
-<p>Core</p>
+<h2>Construction Materials</h2>
+<h2>Core</h2>
 <p>The core is the interior portion of a weapon that gives it strength and rigidity. There are several materials that can be used for cores including various types of PVC piping, some types of spiral wound fiberglass tubing, and several other types of materials. Please note that you may never use wood or heavy metals as part of your core in weapon construction.</p>
 <p>The core of the weapon can be made of different materials based on the size of the weapon to be constructed.</p>
 <p>Below is an overview of suggested cores and the types of weapons that can be created with each material.</p>
-<p>Standard</p>
+<h2>Standard</h2>
 <p>The standard core for weapons is PVC of which there are 2 types: white PVC used in plumbing and grey PVC or CPVC used for electrical work. The following list uses the inner diameter of the tubing. Please note that schedule 20 CPVC has a thin wall and is more flexible than schedule 40 CPVC. If you use schedule 20, use one size higher based on the weapon you are making.</p>
 <p>1/2 inch: This core can be used to make small and short and long weapons. This type of core has more give and should not be used in weapons longer than 46 inches.</p>
 <p>3/4 inch: This core can be used to make two handed weapons.</p>
-<p>Ultralight</p>
+<h2>Ultralight</h2>
 <p>Ultralight cores include carbon fiber, kitespar tube, fiberglass tube, and wrapped graphite tube. Aluminum core may only be used for polearms and staves. These material can be used to make most weapons, however the diameter of the kite pole determines which type of weapon it is best suited for. The following list uses the outer dimension of the tubing.</p>
 <p>0.414 inch: This core can be used to make small, short and long weapons. This type of core has more give and should not be used in weapons longer than 46 inches. Please note that depending on the style of weapon construction, this core may have too much give at the maximum length for long weapons.</p>
 <p>0.505 inch: This core can be used to make short and long weapons and spears. This type of core has more give and should not be used in weapons longer than 54 inches.</p>
 <p>0.610 inch: This core can be used to make staves, two handed weapons and spears. This type of core has more give and should not be used in weapons longer than 64 inches.</p>
 <p>0.745 inch: This core can be used for all two handed weapons. This type of core should not be used in weapons shorter than 54 inches.</p>
-<p>Closed Cell Foam</p>
+<h2>Closed Cell Foam</h2>
 <p>This durable water resistant material is used in the construction of weapons in NERO. There are three types of closed cell foam that can be used for weapon construction: Pipe foam insulation, Pool Noodle, and Camp pad.</p>
 <p>Pipe foam Insulation: The most common type of closed cell foam is pipe foam insulation. Closed cell pipe foam insulation is used to pad the blades of weapons, and must be at least 5/8 inch wall thickness. Please note that most foam found in home improvement stores does not posses the correct thickness.</p>
 <p>Closed cell foam of the appropriate wall thickness can be difficult to locate. Currently the foam is available from a variety of places;</p>
@@ -141,7 +140,7 @@
 <p>Pool noodle: Pool noodle is thicker than pipe insulation, and not all pool noodles fit PVC. You should bring measuring tape or a piece of pipe with you when you buy it.</p>
 <p>Camp Pad: This material is used to make more advanced, sculpted weapons. The average camp pad found in stores such as Walmart is 1/4" thick. To achieve the correct thickness you must laminate multiple pieces together with contact cement. Weapons made with this material are held up to more scrutiny. Visit www.nerolarp.com for specifications for sculpted weapons. You should not attempt to make your first weapon out of this material.</p>
 <p>Open Cell Foam:This material is a less dense foam that is commonly used to stuff couches and pillows and is found in most fabric stores. This foam is used in the construction of thrusting tips, weapon heads and some thrown weapons. The foam should be easily squeezable and not too dense. Alternatively you can also use a car sponge found at hardware stores.</p>
-<p>Tapes</p>
+<h2>Tapes</h2>
 <p>There are several types of tape that are commonly used in weapon making:</p>
 <p>Duct Tape: Duct tape is the standard type of tape used in weapon making. It can be used for blades, thrusting tips, crossguards, and pommels. Duct tape can be found in a variety of colors and various thicknesses. Certain types of duct tape are heavier and less suitable for weapon construction.</p>
 <p>Kite Tape: Kite tape or Nylon rip stop repair tape is a type of tape that is used normally for fixing kites. It is an extremely light form of tape that can be used in weapon construction. It is available in a variety of colors and can be purchased from a number of kite supply stores.</p>
@@ -151,36 +150,36 @@
 <h1>How to Make a Weapon</h1>
 <p>Constructing a weapon requires time and patience, but it is not that hard once you have practiced a bit. The next section will describe the steps to create various weapons, but focused on a basic one handed edged weapon.</p>
 <p>In each of the steps, there will be a description of the materials and techniques.</p>
-<p>Tools and materials:</p>
+<h2>Tools and materials:</h2>
 <p>Below is a list of tools and a list of materials you'll need to make most weapons.</p>
-<p>Materials</p>
+<h2>Materials</h2>
 <p>1. Core</p>
 <p>2. Closed cell foam</p>
 <p>3. Duct tape</p>
 <p>4. 2" x 2" x weapon diameter Open Cell foam tip(s)</p>
-<h2>Tools</h2>
+<h3>Tools</h3>
 <p>1. Marker</p>
 <p>2. Measuring tool</p>
 <p>3. Stapping/Duct tape</p>
 <p>4. Saw</p>
 <p>5. Scissors/Xacto/</p>
 <p>6. Carving knife</p>
-<p>1. The core of the weapon</p>
+<h4>1. The core of the weapon</h4>
 <p>After gathering your materials, the next step in creating a weapon is selecting an appropriate core for the type of weapon that you wish to make. You will need to do several things to prepare the core for weapon construction. First you will need to determine the length of the weapon that you wish make. Then you will have to cut the core approximately 3 inches shorter than the overall length of the weapon, 5 for weapons that require thrusting tips on both ends. This allows for padding both ends and the thrusting tip(s).</p>
 <p>Cut the core to the right length with a hacksaw. If you are using a fibrous material, like kitespar, wrap a piece of tape around the area you are cutting to keep the fibers from fraying. Take care not to score areas that will be on your finished weapons. You will then need to clean up the edges of the cut so that there are no burrs or other protrusions. Lastly, you will need to cover both ends of the core with tape so there are no open ends.</p>
-<p>2. Pad the striking area</p>
+<h4>2. Pad the striking area</h4>
 <p>The next step in creating a weapon is padding the striking area of the weapon. There are several things that you will need to do in this step. First, you should measure and cut the pipe foam to the desired blade/shaft length. Remember to measure the blade length to account for the the thrusting tip and the 1/2" overhang from the core. Next, you should slide the pipe foam over the core so that a 1/2?of foam hangs over one end. Make sure that the foam is snug to the core; if it rattles then the closed cell foam is too large and you will need to build out the core so that foam does not rattle. Cut off 1?of pipe foam (not from the piece you are using for the blade) and cut it into two equal halves. Compress one of the halves and stuff it into the end of the blade foam. Using a piece of tape, cover the small piece of foam that has been put into the end of the blade.</p>
-<p>3. Add a crossguard (optional)</p>
+<h4>3. Add a crossguard (optional)</h4>
 <p>The next step is an optional step when creating a weapon though it is strongly encouraged. Certain weapon types have cross guards, including most types of swords and occasionally other hafted weapons. First, you need to cut a section of closed cell pipe foam of the appropriate size. Then cut a hole in the middle of the cross guard foam and slide the crossguard down the core until it meets the blade. Secure the crossguard to the blade using two strips of duct tape, then stuff the ends of the crossguard with open cell foam to strengthen the crossguard. Close off the ends of the crossguard with tape. Secure the cross guard to the grip by taking strips of tape from the crossguard to the grip. This will secure the blade and crossguard to the grip.</p>
-<p>4. Add a pommel</p>
+<h4>4. Add a pommel</h4>
 <p>The next step is to add a pommel at the end of the weapon. Cut a piece of closed cell foam so that is about 3 inches long. Place the foam on the butt end of the weapon so that the foam hangs at least one inch over the weapon? core. As with the blade tip, place a half circle of compressed closed cell foam into the end of the foam and cover it with tape. Secure the pommel to the core with tape in such a way that at least one inch of closed cell foam extends past the core. Make sure that the pommel is secure to the core and is not loose. </p>
-<p>6. Add a thrusting tip</p>
+<h4>6. Add a thrusting tip</h4>
 <p>The tip of the striking surface must have a thrusting tip. This tip is 2" of open cell foam. Longer thrusting tips tend to bend. Cut the foam to cover the tip. Once the tip is in place, use tape to cover it. Take a length of tape and place it so it goes across the end of the tip and down both sides, attaching the tip to the weapon. If the tip is round, use a razor to cut the corners so the tape conforms to the tip. Now add another piece of tape so that it goes across the end and down the exposed sides of the foam tip. Use a razor to cut the corners so the tape overlaps slightly and conforms to the tip. Finally, poke many tiny holes all over the tip so the air can escape and the tip can contract and expand freely.</p>
-<p>7. Cover the blade</p>
+<h4>7. Cover the blade</h4>
 <p>The next step is to cover the exposed foam with tape or with a weapon sock. Any striking surface on a weapon should be covered with either a weapon sock or tape. If you choose to use tape, all of the tape on the striking surface of a weapon should run vertically from the thrusting tip to the pommel and should slightly overlap the piece next to it. Do not use overuse tape on striking surfaces and thrusting tips, one layer with slight overlap is enough. Excessive layering may make your weapon hard and un-passable. Tape should NEVER be spiral wrapped around the weapon.</p>
-<p>8. Add a grip</p>
+<h4>8. Add a grip</h4>
 <p>The last step of the weapon making process is to cover the exposed grip with tape so that it is easy to wield. Use electrical tape or hockey grip tape spiral wrapped around the grip section of the weapon, so that it can be held easily. If the weapon is not thick enough to comfortably wield, you may use padding beneath the grip tape.</p>
-<p>Maintaining Your NERO Weapon</p>
+<h2>Maintaining Your NERO Weapon</h2>
 <p>Any latex foam or boffer swords must be stored and maintained properly in order to remain safe. There are a few simple things you can do to increase the longevity of your weapon.</p>
 <p>Do not store foam weapons in extreme heat or cold for any length of time. Storing it in your car in the sun may cause paints to stick, tape to wrinkle and general degradation of the weapon over time.</p>
 <p>Avoid soaking weapons in water and do not use your weapons if they have become waterlogged.</p>

@@ -39,10 +39,19 @@
 <h2>Trade Mastery</h2>
 <p>A character with ten or more levels of a single Production Skill is considered a Master of her trade, and generates one “Master” Production Level per level of overall skill.</p>
 <h3>Workshops</h3>
-<p>A workshop generates one ”Workshop” Production Level per level of overall skill. </p>
+<p>A workshop generates one ”Workshop” Production Level per level of overall skill.</p>
 <h3>Materials</h3>
-<p></p>
+<p>A character may also buy more refined materials at Logistics in order to increase their output at the rate of one silver per Production Level, to a maximum of their Base Production Level. Local chapters may issue Production Components to represent these refined materials as in-game treasure or for sale by merchants in addition to or instead of using silver. One Production Component is equal to one silver for the purposes of increasing production output,but the combined increased output of silver and Production Components cannot exceed the Base Production Level. Example: “Talon has 20 levels of create scroll so his base production level for one day is 20. Since Talon has over 10 levels of create scroll he is a mastercraftsman and gets 1 for 20 bonus production levels. Talon spends 10 silver and turns in 10 production components at check-in for another 20 bonus production levels. Finally Talon uses a scroll workshop which allows him to create 20 bonus production levels of scrolls. Talon then uses his 80 production levels to create scrolls, this is the maximum amount of production output Talon can get with his base production level. All production items have an expiration date. These items last 24 months after being created. The expiration date of a particular production item is known by anyone who looks at the item reads the associated item tag that goes with it. When an item expires, it is said to have broken, rusted, or otherwise lost potency. This damage can be repaired by using production skills to issue a new tag for the item. This explains how you can still own your father’s sword even though it rusts and expires every two years. </p>
 <h3>Special Abilities</h3>
-<p>If a production skill has Special Abilities, only Base </p>
+<p>If a production skill has Special Abilities, only Base Production Levels can be used for them. If a Base Production Level is used for a Special Ability then it cannot be used to make a game item, but the use of workshops, silver, production components, or Master Levels is undiminished.</p>
+<p>It is possible to become more productive in making Production items if you have access to a workshop that specializes in making them. A character with a workshop can make additional Levels of items to a maximum of their Base Production Level.</p>
+<p>There are specialized workshops for making </p>
+<p>(a) alchemical elixirs, gases, and contact poisons,</p>
+<p>(b) making weapons and armor,</p>
+<p>(c) creating potions, </p>
+<p>(d) creating scrolls, and </p>
+<p>(e) making and arming traps.</p>
+<p>Access to these workshops is found through in game means, often by way of a local guild or noble connection. Workshops are chapter specific.</p>
 <h2>Goblin Production</h2>
+<p>Goblin stamps can be used to purchase production items. They can not be used to add special abilities to items. The scale and rules governing their use are available on the NERO National Website. These rules have been known to change, so make sure you check the NERO National Website periodically</p>
 </body></Root> 
